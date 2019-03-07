@@ -30,6 +30,8 @@ dependencies {
     compile 'org.mongodb:mongo-java-driver:3.9.1'
     compile 'javax.servlet:javax.servlet-api:4.0.1'
     compile 'org.hibernate:hibernate-core:5.4.0.Final'
+    compile 'org.apache.commons:commons-collections4:4.2'
+    compile 'com.github.ben-manes.caffeine:caffeine:2.6.2'
     compile 'com.google.guava:guava:' + project.guavaVersion
     compile 'org.projectlombok:lombok:' + project.lombokVersion
     compile 'org.apache.httpcomponents:httpmime:' + project.httpClientVersion

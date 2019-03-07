@@ -1,6 +1,12 @@
 package utils;
 
+import OO_test.BaseDTO;
+import com.google.common.collect.Lists;
+import org.apache.commons.collections4.CollectionUtils;
+
+import java.math.BigDecimal;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class listTest {
     public static final List<String> ORDER_ONE = new ArrayList<>(Arrays.asList("朱元璋", "朱棣"));
@@ -10,6 +16,53 @@ public class listTest {
     public static final List<String> sub3 = new ArrayList<>(Arrays.asList("朱棣", "朱元璋"));
 
     public static void main(String[] args) {
+//        SortedSet sortedSet = new SortedSet(){};
+        HashSet hashSet = new HashSet();
+
+        List<String> newTaskNames = Arrays.asList("dfdfd".split(","));
+        //Arrays.asList得到是static,oldTaskNames.remove()错误！
+        Iterator<String> oldTaskNames =  Arrays.asList("dfdfd".split(",")).iterator();
+        for (String newTaskName : newTaskNames) {
+            while (oldTaskNames.hasNext()) {
+                String taskName = oldTaskNames.next();
+                if(taskName.equals(newTaskName)) {
+                    oldTaskNames.remove();
+                }
+            }
+        }
+
+        System.out.println(oldTaskNames.toString());
+        /**
+         * 实现多个对象中相同的字段值相加？最后得到一个对象
+         */
+        List<BaseDTO> baseDTOList = new ArrayList<>();
+        System.out.println(baseDTOList.subList(0,baseDTOList.size()));
+        LinkedList linkedList = new LinkedList();
+        List one = null;
+        List<String> two = new ArrayList<>();
+        System.out.println(two.stream().filter(s -> s.startsWith("a")).collect(Collectors.toList()));
+        System.out.println(CollectionUtils.isEmpty(two));
+        System.out.println(CollectionUtils.size(two));
+
+        Map<String, Integer> map1 = new HashMap<>();
+        map1.put("a", 1);
+        System.out.println(map1.get("b"));
+        //Guava 取代 list = new ArrayList<>();
+        List initList = Lists.newArrayList();
+        initList.add(1);
+        initList.remove(0);
+        /**
+         * 使用Collections.singletonList（）方法[不可变列表]
+         * Arrays.asList(something)允许Arrays.asList(something) 更改
+         */
+        List initList1 = Arrays.asList("12");
+        List initList2 = Collections.singletonList("12");
+//        initList1.add("23");  不支持add和remove方法
+//        initList1.remove(0);
+        initList1.set(0, "1234");
+        System.out.println(initList1);
+//        initList2.add("123"); 不支持add和remove方法
+
         System.out.println(sub1.remove("dfd"));
         System.out.println("删除多个，重复怎么删除，元素顺序是否影响删除");
         sub1.forEach(name -> sub2.remove(name));

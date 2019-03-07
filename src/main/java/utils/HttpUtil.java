@@ -603,6 +603,11 @@ public class HttpUtil {
             nvps.add(new BasicNameValuePair("IDToken1", "username"));
             nvps.add(new BasicNameValuePair("IDToken2", "password"));
             httpPost.setEntity(new UrlEncodedFormEntity(nvps, Consts.UTF_8));
+            response = httpClient.execute(httpPost);
+            HttpEntity entity = response.getEntity();
+            System.out.println("Login form get: " + response.getStatusLine());
+            EntityUtils.consume(entity);
+
         } catch (IOException e) {
             e.printStackTrace();
         }

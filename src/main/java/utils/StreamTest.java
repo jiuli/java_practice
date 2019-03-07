@@ -1,15 +1,58 @@
 package utils;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class StreamTest {
 	
 	public static void main(String[] args) {
+		User one = new User("阿大,阿大21,阿大", 18);
+		User two = new User("阿二", 16);
+		User three = new User("阿三", 14);
+		one.setToyArray(new Toy[]{new Toy("熊大", "棕色"), new Toy("黑猫警长", "黑白色")});
+		two.setToyArray(new Toy[]{new Toy("手枪", "黑色"), new Toy("小汽车", "红色")});
+		three.setToyArray(new Toy[]{new Toy("不倒翁", "黄色"), new Toy("铁环", "灰色")});
+
+
+		User[] userArray = {one, two, three};
+		Arrays.stream(userArray).map(User::getToyArray)
+				.flatMap(Arrays::stream).map(Toy::getColor).forEach(System.out::println);
+		System.out.println("////////////////////////////////////////////////////////////////////////////////////");
+
+		Stream.of(userArray).map(User::getToyArray)
+				.flatMap(Arrays::stream).map(Toy::getColor).forEach(System.out::println);
+		System.out.println("-------------------------------------------------------------------------------------");
+
+		/**
+		 * 集合
+		 */
+		List<User> userList = Arrays.asList(one, two, three);
+
+		//得到List<String[]>
+		List nameList = userList.stream().map(User::getName).collect(Collectors.toList())
+				.stream().map(name -> name.split(","))
+				.collect(Collectors.toList());
+		//使用flatMap合并collect,得到一个扁平collect
+		List<String> names = userList.stream().map(User::getName).collect(Collectors.toList())
+				.stream().map(name -> name.split(","))
+				.flatMap(Arrays::stream).distinct().collect(Collectors.toList());
+
+		one.setToys(Arrays.asList(new Toy("熊大", "棕色"), new Toy("黑猫警长", "黑白色")));
+		two.setToys(Arrays.asList(new Toy("手枪", "黑色"), new Toy("小汽车", "红色")));
+		three.setToys(Arrays.asList(new Toy("不倒翁", "黄色"), new Toy("铁环", "灰色")));
+
+
+		userList.stream().map(User::getToys)
+				.flatMap(toy -> toy.stream()).map(Toy::getColor).forEach(System.out::println);
+		System.out.println("=====================================================================================");
+
+		userList.stream().map(User::getToys)
+				.flatMap(Collection::stream).map(Toy::getColor).forEach(System.out::println);
+		System.out.println("===================================并行流=============================================");
+		userList.stream().map(User::getToys)
+				.flatMap(toy -> toy.parallelStream()).map(Toy::getColor).forEach(System.out::println);
+
 		List<Student> students = new ArrayList<Student>() {
 		    {
 		        add(new Student(20160001, "孔明", 20, 1, "土木工程", "武汉大学"));
