@@ -8,7 +8,7 @@ public class StreamTest {
 	
 	public static void main(String[] args) {
 		User one = new User("阿大,阿大21,阿大", 18);
-		User two = new User("阿二", 16);
+		User two = new User("阿二,阿大", 16);
 		User three = new User("阿三", 14);
 		one.setToyArray(new Toy[]{new Toy("熊大", "棕色"), new Toy("黑猫警长", "黑白色")});
 		two.setToyArray(new Toy[]{new Toy("手枪", "黑色"), new Toy("小汽车", "红色")});

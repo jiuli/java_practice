@@ -1,0 +1,38 @@
+
+Ssquid:S1854z"7Remove this useless assignment to local variable "ss2".(ÕóÙŒıÿÿÿÿ
+U
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(’†Ú»úÿÿÿÿ
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(´­–Ç
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß«Ç
+Nsquid:S1854|"7Remove this useless assignment to local variable "ss3".(Å“ŞÏ
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(ÁæûÊşÿÿÿÿ8ïé€æ•-
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ë¬Šÿ
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(şó®„
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(’†Ú»úÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+V
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ƒÒ‘Ë8ñ¾Éå•-
+W
+squid:S106„"9Replace this use of System.out or System.err by a logger.(äãÕû8ïé€æ•-
+?squid:S1481|"(Remove this unused "ss3" local variable.(Å“ŞÏ
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(­´•
+Csquid:S1612O",Replace this lambda with a method reference.(ü¦Æ˜
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(—Í¨ò
+=squid:S2116„"%Use "Arrays.toString(array)" instead.(äãÕû
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ü‰ˆ8ïé€æ•-
+jsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(şó®„8ïé€æ•-
+V
+squid:S106j"9Replace this use of System.out or System.err by a logger.(›çú 8ïé€æ•-
+Dsquid:S1481z"(Remove this unused "ss2" local variable.(ÕóÙŒıÿÿÿÿ
+Dsquid:S1612€",Replace this lambda with a method reference.(ü¦Æ˜
+P
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(‹Ã¶

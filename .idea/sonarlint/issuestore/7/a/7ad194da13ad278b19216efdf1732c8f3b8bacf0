@@ -1,0 +1,59 @@
+
+Nsquid:S1135l"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Dsquid:S1604i"(Make this anonymous inner class a lambda(¥Å¦ºúÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÀÏ€øÿÿÿÿ8‡Å·•-
+_squid:S1854!"<Remove this useless assignment to local variable "nameList".(¥ûÛ¨ıÿÿÿÿ8‡Å·•-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÀÏ€øÿÿÿÿ8‡Å·•-
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(“öÆÒùÿÿÿÿ
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(œâ´Ò
+Nsquid:S1135`"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(±¸ş¢ùÿÿÿÿ
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(íÿãû8‡Å·•-
+N
+squid:S106\"9Replace this use of System.out or System.err by a logger.(Ş…¸Z
+Tsquid:CallToDeprecatedMethodT",Remove this use of "Date"; it is deprecated.(‡Î¶
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¥€Œı8‡Å·•-
+usquid:S11719"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Wsquid:S1854%"9Remove this useless assignment to local variable "names".(ˆéÀô8‡Å·•-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(Ö Ä¬øÿÿÿÿ8‡Å·•-
+Dsquid:S1604]"(Make this anonymous inner class a lambda(¥Å¦ºúÿÿÿÿ
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(œâ´Ò8‡Å·•-
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ØÊ¿‰şÿÿÿÿ
+Hsquid:S1481%"*Remove this unused "names" local variable.(ˆéÀô8‡Å·•-
+osquid:S1192>"SDefine a constant instead of duplicating this literal "åä¸­ç§‘æŠ€å¤§å­¦" 3 times.(®áƒğıÿÿÿÿ
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(¥Å¦ºúÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­¢±úÿÿÿÿ8‡Å·•-
+Ysquid:CallToDeprecatedMethodS",Remove this use of "Date"; it is deprecated.(Ä”Ôàûÿÿÿÿ
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(öÀ»†8‡Å·•-
+Tsquid:CallToDeprecatedMethodN",Remove this use of "Date"; it is deprecated.(†‰û˜
+Tsquid:CallToDeprecatedMethodT",Remove this use of "Date"; it is deprecated.(‡Î¶
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷µ”8‡Å·•-
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(¥Å¦ºúÿÿÿÿ
+Jsquid:S1481L"3Remove this unused "projectDTOList" local variable.(¬ÙÄâ
+T
+squid:S106G"9Replace this use of System.out or System.err by a logger.(í‘ä”ùÿÿÿÿ
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(æ†½šúÿÿÿÿ
+Tsquid:CallToDeprecatedMethodR",Remove this use of "Date"; it is deprecated.(³ªú
+Ysquid:CallToDeprecatedMethodS",Remove this use of "Date"; it is deprecated.(Ä”Ôàûÿÿÿÿ
+Tsquid:CallToDeprecatedMethodN",Remove this use of "Date"; it is deprecated.(†‰û˜
+Tsquid:CallToDeprecatedMethodR",Remove this use of "Date"; it is deprecated.(³ªú
+O
+squid:S106h"9Replace this use of System.out or System.err by a logger.(Ò¥£¸
+Psquid:S1481!"-Remove this unused "nameList" local variable.(¥ûÛ¨ıÿÿÿÿ8‡Å·•-
+Ysquid:S1854L"BRemove this useless assignment to local variable "projectDTOList".(¬ÙÄâ

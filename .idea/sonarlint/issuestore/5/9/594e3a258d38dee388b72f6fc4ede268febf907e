@@ -1,0 +1,70 @@
+
+T
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ä½«äÿÿÿÿÿ
+U
+squid:S106ž"9Replace this use of System.out or System.err by a logger.(ðôæ‘ùÿÿÿÿ
+P
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ôÎØ¨
+N
+squid:S106G"9Replace this use of System.out or System.err by a logger.(‚•©<
+Nsquid:S1135E"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(˜°’¶úÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢åÝèúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Õ•á˜
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(®ö®†
+P
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(«¹Ðø
+P
+squid:S106…"9Replace this use of System.out or System.err by a logger.(‡²›ß
+O
+squid:S106b"9Replace this use of System.out or System.err by a logger.(ŸÖÃ»
+U
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+O
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(¡þ
+U
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(æ²²Îüÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake list a static final constant or non-public and provide accessors if needed.(ùæÓÅþÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ãö´ùÿÿÿÿ
+U
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(çÛ‘óÿÿÿÿÿ
+P
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ïõçã
+Rsquid:S2209›"5Change this instance-reference to a static reference.(Ž¡œüþÿÿÿÿ
+U
+squid:S106—"9Replace this use of System.out or System.err by a logger.(Âíáöûÿÿÿÿ
+Ysquid:S1612$"=Replace this lambda with method reference 'Objects::nonNull'.(Éðíªøÿÿÿÿ
+P
+squid:S106†"9Replace this use of System.out or System.err by a logger.(¡¹¿Ä
+O
+squid:S106f"9Replace this use of System.out or System.err by a logger.(Â‡”Ë
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ðò”úÿÿÿÿ
+U
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(µÛÞüÿÿÿÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘¾ÛÌýÿÿÿÿ
+gsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë…·º
+ksquid:S00100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûËëìþÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æˆ¤œ
+P
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(‚™†Ñ
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(Æ‡…³
+fsquid:S00100{"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ÅÛ¨
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(£¥€çøÿÿÿÿ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(†¤‚üÿÿÿÿ
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(²¨ç÷

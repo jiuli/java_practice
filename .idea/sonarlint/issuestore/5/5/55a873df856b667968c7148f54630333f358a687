@@ -1,0 +1,8 @@
+
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+fsquid:S2095"OUse try-with-resources or close this "PipedOutputStream" in a "finally" clause.(½ýÀ‘
+[squid:S2147"DCombine this catch with the one at line 25, which has the same body.(ä ¹€
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ±†ž
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

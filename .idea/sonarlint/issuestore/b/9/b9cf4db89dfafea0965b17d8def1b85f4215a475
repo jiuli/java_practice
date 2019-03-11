@@ -1,0 +1,4 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+Hsquid:S1481",Remove this unused "boiler2" local variable.(ÌÐ„‡þÿÿÿÿ
+Wsquid:S1854";Remove this useless assignment to local variable "boiler2".(ÌÐ„‡þÿÿÿÿ

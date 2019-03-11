@@ -18,10 +18,15 @@ public class listTest {
     public static void main(String[] args) {
 //        SortedSet sortedSet = new SortedSet(){};
         HashSet hashSet = new HashSet();
-
+        Map map11 = new HashMap();
+        map11.put(1,"没有");
+        System.out.println(map11.get(1));
+        System.out.println(map11.get(11));
+        System.out.println(ORDER_ONE.toString());
         List<String> newTaskNames = Arrays.asList("dfdfd".split(","));
         //Arrays.asList得到是static,oldTaskNames.remove()错误！
-        Iterator<String> oldTaskNames =  Arrays.asList("dfdfd".split(",")).iterator();
+        //Iterator<String> oldTaskNames =  Arrays.asList("dfdfd".split(",")).iterator();
+        Iterator<String> oldTaskNames =  new ArrayList(Arrays.asList("dfdfd".split(","))).iterator();
         for (String newTaskName : newTaskNames) {
             while (oldTaskNames.hasNext()) {
                 String taskName = oldTaskNames.next();

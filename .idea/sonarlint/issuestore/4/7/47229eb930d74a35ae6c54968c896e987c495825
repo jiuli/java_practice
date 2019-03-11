@@ -1,0 +1,9 @@
+
+Jsquid:S1481"4Remove this unused "forecastDisplay" local variable.(¤äÚ?
+asquid:S1854
+"ERemove this useless assignment to local variable "statisticsDisplay".(ºßÌ°ûÿÿÿÿ
+^squid:S1854"BRemove this useless assignment to local variable "currentDisplay".(­²Éßûÿÿÿÿ
+Osquid:S1481"3Remove this unused "currentDisplay" local variable.(­²Éßûÿÿÿÿ
+Ysquid:S1854"CRemove this useless assignment to local variable "forecastDisplay".(¤äÚ?
+Rsquid:S1481
+"6Remove this unused "statisticsDisplay" local variable.(ºßÌ°ûÿÿÿÿ

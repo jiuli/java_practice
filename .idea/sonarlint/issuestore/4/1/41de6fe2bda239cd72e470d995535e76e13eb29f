@@ -1,0 +1,45 @@
+
+Nsquid:S1854²"6Remove this useless assignment to local variable "qs".(ü—äÖ
+Zsquid:S1858$"C"readValue" returns a string, there's no need to call "toString()".(ïÂƒ
+lsquid:S00116"TRename this field "user_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÚªÇ
+_squid:S18583"C"readValue" returns a string, there's no need to call "toString()".(×õÈ²ûÿÿÿÿ
+]squid:UnusedPrivateMethod‚"2Remove this unused private "setCredential" method.(²µøÒıÿÿÿÿ
+Wsquid:UnusedPrivateMethod~"2Remove this unused private "getCredential" method.(Úòå—
+?squid:S1481²"'Remove this unused "qs" local variable.(ü—äÖ
+?squid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Wsquid:UnusedPrivateMethod–",Remove this unused private "getHost" method.(‰°ğ–úÿÿÿÿ
+?squid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+osquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÚäÆÿÿÿÿÿ
+Wsquid:UnusedPrivateMethodš",Remove this unused private "setHost" method.(ºó¸Áÿÿÿÿÿ
+Isquid:S1135c"2Complete the task associated to this TODO comment.(ÿÔ–—
+Zsquid:UnusedPrivateMethodª"/Remove this unused private "setDb_name" method.(¶ú¤ôùÿÿÿÿ
+jsquid:S00117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹İÓ®
+Vsquid:UnusedPrivateMethod’"+Remove this unused private "setPwd" method.(œÄÖÿıÿÿÿÿ
+P
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(şƒö
+Qsquid:UnusedPrivateMethod"+Remove this unused private "getPwd" method.(µ‹åÄ
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(×ÚéŒüÿÿÿÿ
+lsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¼…ôüÿÿÿÿ
+lsquid:S00100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÕ—§øÿÿÿÿ
+Zsquid:S18585"C"readValue" returns a string, there's no need to call "toString()".(˜¾’
+fsquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñı‹ï
+bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ıÍı
+osquid:S00116"RRename this field "db_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ôçõúÿÿÿÿ
+ksquid:S1192#"ODefine a constant instead of duplicating this literal "app.properties" 5 times.(ñ—ğ†ÿÿÿÿÿ
+Zsquid:UnusedPrivateMethod¦"/Remove this unused private "getDb_name" method.(îÕ—§øÿÿÿÿ
+Zsquid:UnusedPrivateMethod+"5Remove this unused private "MyMongodb_2" constructor.(©äé÷
+Tsquid:UnusedPrivateMethodz"/Remove this unused private "setAddress" method.(œ½ó²
+Ysquid:UnusedPrivateMethodv"/Remove this unused private "getAddress" method.(ûßˆıÿÿÿÿ
+lsquid:S00100ª"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ú¤ôùÿÿÿÿ
+_squid:S1858#"C"readValue" returns a string, there's no need to call "toString()".(ñ—ğ†ÿÿÿÿÿ
+csquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(îéÑ°
+\squid:UnusedPrivateMethod"1Remove this unused private "getUser_name" method.(Š¼…ôüÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(½şõë
+Wsquid:UnusedPrivateMethod¢"1Remove this unused private "setUser_name" method.(šÅæÚ
+Usquid:CallToDeprecatedMethodD"-Remove this use of "getDB"; it is deprecated.(ú•æ±
+Rsquid:UnusedPrivateMethod†",Remove this unused private "getPort" method.(ÃİÏÅ
+gsquid:S00100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÅæÚ
+Rsquid:UnusedPrivateMethodŠ",Remove this unused private "setPort" method.(Ï³û
+Zsquid:S18584"C"readValue" returns a string, there's no need to call "toString()".(ä—íˆ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ïšú

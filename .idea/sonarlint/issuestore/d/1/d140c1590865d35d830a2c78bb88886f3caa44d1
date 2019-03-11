@@ -1,0 +1,17 @@
+
+O
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Ö½£
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ›¼
+squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÂƒØàıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡¹—Òøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(€‹‚
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂƒØàıÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Öìâ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßŸªŠ
+Bsquid:S1905"+Remove this unnecessary cast to "Iterator".(ïíÿ

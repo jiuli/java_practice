@@ -102,6 +102,8 @@ public class StringTest {
     }
 
     public static void main(String[] args) {
+        StringBuilder strBuilder = new StringBuilder();
+        System.out.println(strBuilder);
         String name = "测试008";
         String path = "1,12,1";
         System.out.println(getParentsAndSelf(path.split(COMMA)));
@@ -141,7 +143,7 @@ public class StringTest {
         System.out.println(name.contains("-"));
         System.out.println(name.lastIndexOf('-'));
         System.out.println(outLineNum1.substring(2));
-        System.out.println(name.replace(name.substring(name.lastIndexOf('-'), name.length()), ""));
+//        System.out.println(name.replace(name.substring(name.lastIndexOf('-'), name.length()), ""));
         System.out.println(taskName.replace(taskName.substring(taskName.lastIndexOf('-'), taskName.length()), ""));
     }
 }

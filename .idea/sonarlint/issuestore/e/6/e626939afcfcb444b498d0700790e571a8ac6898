@@ -1,0 +1,8 @@
+
+T
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¹Åúÿÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹³Àµùÿÿÿÿ
+xsquid:S00116"[Rename this field "introduction_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹³Àµùÿÿÿÿ
+Esquid:S1905,")Remove this unnecessary cast to "String".(£ÂĞøÿÿÿÿ
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "obj".(—àõàûÿÿÿÿ
+8squid:S1659)"!Declare "val" on a separate line.(´Ì—†

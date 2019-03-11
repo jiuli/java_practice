@@ -1,0 +1,17 @@
+
+dsquid:S1854"HRemove this useless assignment to local variable "initializationBlocks".(‚÷­Òúÿÿÿÿ
+Lsquid:S1481"5Remove this unused "noArgConstructor" local variable.(î¥Ñï
+ksquid:S1854"URemove this useless assignment to local variable "initializationBlockAndConstructor".(Å’Æh
+Vsquid:S1481":Remove this unused "noConstructorInstance" local variable.(Î›‹úøÿÿÿÿ
+Usquid:S1481"9Remove this unused "initializationBlocks" local variable.(‚÷­Òúÿÿÿÿ
+Vsquid:S1481"?Remove this unused "initializationWithDefaults" local variable.(ßû
+^squid:S1854"GRemove this useless assignment to local variable "initializationBlock".(ê»¶¬
+\squid:S1481"FRemove this unused "initializationBlockAndConstructor" local variable.(Å’Æh
+Osquid:S1481"8Remove this unused "initializationBlock" local variable.(ê»¶¬
+esquid:S1854"NRemove this useless assignment to local variable "initializationWithDefaults".(ßû
+csquid:S1854
+"LRemove this useless assignment to local variable "constructorWithArguments".(øíŒø
+esquid:S1854"IRemove this useless assignment to local variable "noConstructorInstance".(Î›‹úøÿÿÿÿ
+Tsquid:S1481
+"=Remove this unused "constructorWithArguments" local variable.(øíŒø
+[squid:S1854"DRemove this useless assignment to local variable "noArgConstructor".(î¥Ñï

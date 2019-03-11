@@ -1,0 +1,4 @@
+
+Gsquid:S1068")Remove this unused "Color" private field.(´ÜÊ·8ò¾Éå•-
+Fsquid:S1068"(Remove this unused "name" private field.(Ë¥¼8ò¾Éå•-
+hsquid:S00116"PRename this field "Color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÜÊ·

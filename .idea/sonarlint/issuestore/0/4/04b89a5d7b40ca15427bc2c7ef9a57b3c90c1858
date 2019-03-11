@@ -1,0 +1,4 @@
+
+jsquid:S3824"NReplace this "Map.get()" and condition with a call to "Map.computeIfAbsent()".(É­áºýÿÿÿÿ
+Nsquid:S1068"2Remove this unused "customerMapper" private field.(³çµƒúÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ýž×ûÿÿÿÿ

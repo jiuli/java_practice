@@ -1,0 +1,5 @@
+
+nsquid:S3981"RThe length of "args" is always ">=0", so update this test to either "==0" or ">0".(€Ÿùûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(­Éí®ûÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

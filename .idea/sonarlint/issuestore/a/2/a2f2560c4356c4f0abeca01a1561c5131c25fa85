@@ -1,0 +1,9 @@
+
+?squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Fsquid:EmptyStatementUsageCheck3"Remove this empty statement.(¾®Ğ…
+nsquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»®¼şÿÿÿÿ
+nsquid:S00116"VRename this field "beat_obsers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¬Ë
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø³‘ÿÿÿÿÿ
+?squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+msquid:S00116"URename this field "bpm_obsers" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÒÆ

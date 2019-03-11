@@ -1,0 +1,8 @@
+
+@squid:S1905!")Remove this unnecessary cast to "String".(¹€’Ï
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(­ìêŒÿÿÿÿÿ
+rsquid:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(Î‹ÊŠÿÿÿÿÿ
+?squid:S11489"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "testDrive".(Ê¡õòùÿÿÿÿ
+Jsquid:S1481".Remove this unused "testDrive" local variable.(Ê¡õòùÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î‹ÊŠÿÿÿÿÿ

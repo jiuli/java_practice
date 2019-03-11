@@ -1,0 +1,8 @@
+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(­Ç³Šýÿÿÿÿ
+gsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÖÊ‚Çøÿÿÿÿ
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(•ºÏÈúÿÿÿÿ
+4squid:S2119B"Save and re-use this "Random".(¼ÝÅf
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›²¯Ñùÿÿÿÿ
+nsquid:S00116"VRename this field "server_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ëßý
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖÊ‚Çøÿÿÿÿ

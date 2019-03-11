@@ -1,0 +1,31 @@
+
+>squid:S1481"(Remove this unused "sdf" local variable.(¬ü¯-
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(»›Ñ‘
+psquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "d".(·ª–ã
+ksquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ï²±ÿÿÿÿÿ
+wsquid:S1149Æ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ã†¼
+@squid:S1148Û"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148Á"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Qsquid:S1118
+":Add a private constructor to hide the implicit public one.(Ÿÿ¸Ü
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(˜½±ãøÿÿÿÿ
+@squid:S1481")Remove this unused "time" local variable.(”‰§·
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£„£9
+ksquid:S1192*"TDefine a constant instead of duplicating this literal "yyyy-MM-dd HH:mm:ss" 3 times.(êß±ï
+@squid:S1148“"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+|squid:S1149Ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ú¸¹ üÿÿÿÿ
+jsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã†¼
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(µ…¬„øÿÿÿÿ
+lsquid:S00100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ñ‡åýÿÿÿÿ
+Msquid:S1854"7Remove this useless assignment to local variable "sdf".(¬ü¯-
+gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ï¤æ­úÿÿÿÿ
+msquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(æ±‹
+bsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(»›Ñ‘
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß´à©ûÿÿÿÿ
+osquid:S00117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¸¹ üÿÿÿÿ
+P
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ÿ…›µ
+jsquid:S00117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã†¼
+bsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(»›Ñ‘
+@squid:S1148®"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

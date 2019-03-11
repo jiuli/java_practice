@@ -1,0 +1,10 @@
+
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ÊÏ…
+Wsquid:S1854";Remove this useless assignment to local variable "strings".(‘Ö´ıÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÊÏ…
+osquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëµ€k
+Hsquid:S1481",Remove this unused "strings" local variable.(‘Ö´ıÿÿÿÿ
+Psquid:S1854":Remove this useless assignment to local variable "holder".(Ëµ€k
+2squid:S2326"T is not used in the class.(«®Œñ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢åİèúÿÿÿÿ
+Asquid:S1481"+Remove this unused "holder" local variable.(Ëµ€k

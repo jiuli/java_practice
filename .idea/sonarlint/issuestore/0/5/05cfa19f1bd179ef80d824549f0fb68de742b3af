@@ -1,0 +1,40 @@
+
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(…Ò™òøÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(³†ßÚ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¯Ôæéÿÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(åÊü¯
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‰—…‹
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(‹éÈ™ûÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ý²âƒÿÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ð†°Ô
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Å»¸íýÿÿÿÿ
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¯Û ‰
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ºØþ¶ùÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ…³P
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¯Ôæéÿÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷«§d
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(±ëØÍ
+{squid:S1149U"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜Ýâœÿÿÿÿÿ
+O
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ô¥ƒÇ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Ù’‰þ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ö¶¾Ý
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(’„î¡þÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(—Ï…§
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñµÜ>

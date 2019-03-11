@@ -1,0 +1,6 @@
+
+Asquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª§¬ûÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÉØĞ
+?squid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ

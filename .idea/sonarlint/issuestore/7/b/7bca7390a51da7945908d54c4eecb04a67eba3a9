@@ -1,0 +1,104 @@
+
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¾ë±…ùÿÿÿÿ
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¡Òèë
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(×ıñÄ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÊÎÃÉ
+T
+squid:S106["9Replace this use of System.out or System.err by a logger.(¹Òë¶şÿÿÿÿ
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+N
+squid:S106x"9Replace this use of System.out or System.err by a logger.(äĞ©
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ôäº™üÿÿÿÿ
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¥ã¹ô
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(°®µÃşÿÿÿÿ
+nsquid:S00117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ú›©ûÿÿÿÿ
+;squid:S2129e"$Remove this "BigDecimal" constructor(»•Ê
+U
+squid:S106€"9Replace this use of System.out or System.err by a logger.(»Î‘¾ûÿÿÿÿ
+T
+squid:S106_"9Replace this use of System.out or System.err by a logger.(¥ı¡áøÿÿÿÿ
+O
+squid:S106J"9Replace this use of System.out or System.err by a logger.(û…ŠÀ
+T
+squid:S106}"9Replace this use of System.out or System.err by a logger.(¬üÍùÿÿÿÿ
+Ysquid:CallToDeprecatedMethod~",Remove this use of "Date"; it is deprecated.(©Ú›©ûÿÿÿÿ
+O
+squid:S106a"9Replace this use of System.out or System.err by a logger.(øúó¶
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(âËÙ¹ÿÿÿÿÿ
+O
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Ô‹ç
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¢°´
+T
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ÃØ¤Ğÿÿÿÿÿ
+T
+squid:S106h"9Replace this use of System.out or System.err by a logger.(®éùÿÿÿÿ
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ÈŒïÕıÿÿÿÿ
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ÖŞÃúÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(‡‚ß
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ËŠ¢´
+O
+squid:S106j"9Replace this use of System.out or System.err by a logger.(÷°£÷
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ùä¾Ùúÿÿÿÿ
+T
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ıê½ıÿÿÿÿ
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ßŸ›ê
+T
+squid:S106X"9Replace this use of System.out or System.err by a logger.(Ä“àÄÿÿÿÿÿ
+O
+squid:S106e"9Replace this use of System.out or System.err by a logger.(»•Ê
+O
+squid:S106C"9Replace this use of System.out or System.err by a logger.(ù–•ş
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Â„şĞúÿÿÿÿ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(„¨è­
+T
+squid:S106G"9Replace this use of System.out or System.err by a logger.(§íêûÿÿÿÿ
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(èŒÜ‘
+T
+squid:S106O"9Replace this use of System.out or System.err by a logger.(“ëÁ¦üÿÿÿÿ
+T
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ğé—èÿÿÿÿÿ
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(‚ˆáÑ
+T
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ÄŸş¢ûÿÿÿÿ
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(šØôï
+N
+squid:S106u"9Replace this use of System.out or System.err by a logger.(‡Á¾%
+Csquid:S2201k"'The return value of "add" must be used.(“Ç¯œùÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(À‰Ï£şÿÿÿÿ
+8squid:S2111]"!Use "BigDecimal.valueOf" instead.(¸ÜòÈ
+;squid:S2129]"$Remove this "BigDecimal" constructor(¸ÜòÈ
+O
+squid:S106{"9Replace this use of System.out or System.err by a logger.(œøÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(°µ³ªúÿÿÿÿ
+N
+squid:S106c"9Replace this use of System.out or System.err by a logger.(à›Â
+Csquid:S2201l"'The return value of "add" must be used.(“Ç¯œùÿÿÿÿ
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(áÖ ©şÿÿÿÿ
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(„éáùÿÿÿÿ
+O
+squid:S106s"9Replace this use of System.out or System.err by a logger.(™„“Å
