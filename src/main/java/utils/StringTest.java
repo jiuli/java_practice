@@ -14,7 +14,14 @@ public class StringTest {
     public static final String COMMA = ",";
     public static final String NORM_SPLIT = ".";
 
-    public static List<String> getParentPath(String currentPath, String separator) {
+    /**
+     * 处理样例：1.1.1，返回[1,1.1]
+     *
+     * @param currentPath
+     * @param separator
+     * @return
+     */
+    public static List<String> getParentPathOld(String currentPath, String separator) {
         List<String> parentPaths = new LinkedList();
         Pattern pattern;
         //判断是否为'.' 或者 ',' 否则返回空
@@ -32,6 +39,32 @@ public class StringTest {
             parentPaths.add(newCurrentPath);
             currentPath = newCurrentPath;
             matcher = pattern.matcher(currentPath);
+        }
+        return parentPaths;
+    }
+
+    /**
+     * 处理样例：1.1.1，返回[1,1.1]
+     *
+     * @param currentPath
+     * @return
+     */
+    public static List<String> getParentPath(String currentPath, String separator) {
+        List<String> parentPaths = new LinkedList();
+        Pattern pattern;
+        //判断是否为'.' 或者 ',' 否则返回空
+        if (StringUtils.equals(separator, NORM_SPLIT)) {
+            pattern = patternPoint;
+        } else if (StringUtils.equals(separator, COMMA)) {
+            pattern = patternComma;
+        } else {
+            return parentPaths;
+        }
+        String parentPath = currentPath;
+        String[] numArray = currentPath.split("\\.");
+        for (int i = 0, length = (numArray.length - 1); i < length; i++) {
+            parentPath = parentPath.substring(0, parentPath.lastIndexOf(separator));
+            parentPaths.add(parentPath);
         }
         return parentPaths;
     }
@@ -108,7 +141,41 @@ public class StringTest {
         String path = "1,12,1";
         System.out.println(getParentsAndSelf(path.split(COMMA)));
         String outLineNum1 = "1.12.1";
-        System.out.println(getParentPath(outLineNum1, NORM_SPLIT));
+        System.out.println(getParentPathOld(outLineNum1, NORM_SPLIT));
+
+        long time11 = System.currentTimeMillis();
+        for (int i = 0; i < 100; i++) {
+            getParentPath("1.1.1",NORM_SPLIT);
+        }
+        long time21 = System.currentTimeMillis();
+
+        long time5 = System.currentTimeMillis();
+        for (int i = 0; i < 100; i++) {
+            getParentPathOld("1.1.1",NORM_SPLIT);
+        }
+        long time6 = System.currentTimeMillis();
+
+        long time1 = System.currentTimeMillis();
+        for (int i = 0; i < 100; i++) {
+            getParentPath("1.1.1",NORM_SPLIT);
+        }
+        long time2 = System.currentTimeMillis();
+
+        long time3 = System.currentTimeMillis();
+        for (int i = 0; i < 100; i++) {
+            getParentPathOld("1.1.1",NORM_SPLIT);
+        }
+        long time4 = System.currentTimeMillis();
+        System.out.println("正则的程序运行了:" + (int) ((time6 - time5) / 1000) + "秒"
+                + ((time6 - time5) % 1000) + "毫秒");
+        System.out.println("split的程序运行了:" + (int) ((time21 - time11) / 1000) + "秒"
+                + ((time21 - time11) % 1000) + "毫秒");
+        System.out.println("split的程序运行了:" + (int) ((time2 - time1) / 1000) + "秒"
+                + ((time2 - time1) % 1000) + "毫秒");
+        System.out.println("正则的程序运行了:" + (int) ((time4 - time3) / 1000) + "秒"
+                + ((time4 - time3) % 1000) + "毫秒");
+
+
         String outLineNum2 = "1.2";
         String outLineNum3 = "1.1.3";
         String outLineNum4 = "1.20.3";
