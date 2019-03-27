@@ -1,0 +1,7 @@
+
+>squid:S2189""Add an end condition to this loop.(οÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ΗΒ—
+=squid:S1481"&Remove this unused "a" local variable.(ƒάν
+>squid:S2189""Add an end condition to this loop.(οÿÿÿÿÿ
+Asquid:S00108")Either remove or fill this block of code.(”ύΎ
+Lsquid:S1854"5Remove this useless assignment to local variable "a".(ƒάν

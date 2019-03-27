@@ -1,0 +1,4 @@
+
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ğ§œš
+Zsquid:S1155>">Use isEmpty() to check whether the collection is empty or not.(›•šùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÛßûÿÿÿÿ

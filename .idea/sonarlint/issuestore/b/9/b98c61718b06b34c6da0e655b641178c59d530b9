@@ -1,0 +1,25 @@
+
+T
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ö¹‘ªøÿÿÿÿ
+|squid:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£šôú
+|squid:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(É¥æ‰
+T
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ÏÎÚ€üÿÿÿÿ
+|squid:S11495"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(£šôú
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îäİ¥ùÿÿÿÿ
+|squid:S1149@"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÿÎËï
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¹îÉ‹
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+{squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ó§P
+|squid:S1149""eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şÆ•­
+|squid:S11494"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(É¥æ‰
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+|squid:S1149""eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şÆ•­
+|squid:S1149%"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿úí×
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÃ¾§úÿÿÿÿ
+{squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ó§P
+isquid:S29752"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+|squid:S1149%"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¿úí×

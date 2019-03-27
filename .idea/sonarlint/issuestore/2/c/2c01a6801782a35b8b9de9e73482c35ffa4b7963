@@ -1,8 +1,8 @@
 
-hsquid:S1192"LDefine a constant instead of duplicating this literal "Living Room" 3 times.(¯ê³ùÿÿÿÿ
+Ysquid:S1854"BRemove this useless assignment to local variable "garageDoorDown".(Ò¯Óó
 Jsquid:S1481"3Remove this unused "garageDoorDown" local variable.(Ò¯Óó
-Hsquid:S1481"1Remove this unused "garageDoorUp" local variable.(ä±êû
+Wsquid:S1854"@Remove this useless assignment to local variable "garageDoorUp".(ä±êû
 T
 squid:S106+"9Replace this use of System.out or System.err by a logger.(›´³úÿÿÿÿ
-Ysquid:S1854"BRemove this useless assignment to local variable "garageDoorDown".(Ò¯Óó
-Wsquid:S1854"@Remove this useless assignment to local variable "garageDoorUp".(ä±êû
+hsquid:S1192"LDefine a constant instead of duplicating this literal "Living Room" 3 times.(¯ê³ùÿÿÿÿ
+Hsquid:S1481"1Remove this unused "garageDoorUp" local variable.(ä±êû

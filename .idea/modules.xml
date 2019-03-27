@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/java_practice.iml" filepath="$PROJECT_DIR$/java_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_practice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_practice_main.iml" group="java_practice" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_practice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_practice_test.iml" group="java_practice" />
-      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,6 @@
 
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(þŽÐÐûÿÿÿÿ
-T
 squid:S106"9Replace this use of System.out or System.err by a logger.(–ÖŽƒüÿÿÿÿ
 ?squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(þŽÐÐûÿÿÿÿ

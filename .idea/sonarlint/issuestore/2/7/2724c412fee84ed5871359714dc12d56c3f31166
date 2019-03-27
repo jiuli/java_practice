@@ -1,0 +1,9 @@
+
+Xsquid:CallToDeprecatedMethod"0Remove this use of "getValue"; it is deprecated.(þòø‡
+?squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Vsquid:S1118	":Add a private constructor to hide the implicit public one.(¿ëºÊüÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+[squid:S2147!"DCombine this catch with the one at line 31, which has the same body.(®åŽ©
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ê‡Þùÿÿÿÿ
+?squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

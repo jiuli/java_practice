@@ -1,14 +1,14 @@
 
-O
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(–¿ìà
-O
-squid:S106Q"9Replace this use of System.out or System.err by a logger.(şñÔÔ
-O
-squid:S106>"9Replace this use of System.out or System.err by a logger.(€Ï’
-Ysquid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(Çïïü
-O
-squid:S106!"9Replace this use of System.out or System.err by a logger.(é´ìĞ
 T
 squid:S106I"9Replace this use of System.out or System.err by a logger.(úæİµùÿÿÿÿ
+O
+squid:S106!"9Replace this use of System.out or System.err by a logger.(é´ìĞ
+O
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(–¿ìà
+Ysquid:S00107"AConstructor has 8 parameters, which is greater than 7 authorized.(Çïïü
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(şñÔÔ
 T
 squid:S1062"9Replace this use of System.out or System.err by a logger.(°èºÓøÿÿÿÿ
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(€Ï’

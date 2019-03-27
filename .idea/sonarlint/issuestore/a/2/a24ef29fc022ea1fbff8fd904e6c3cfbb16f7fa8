@@ -1,0 +1,25 @@
+
+?squid:S1148$"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[squid:S2147!"DCombine this catch with the one at line 25, which has the same body.(Å¡ß
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Û±ÃÕÿÿÿÿÿ
+[squid:CallToDeprecatedMethod&".Remove this use of "Assert"; it is deprecated.(Ä‘¿Œüÿÿÿÿ
+[squid:S2147"DCombine this catch with the one at line 25, which has the same body.(¯áè
+[squid:S2147#"DCombine this catch with the one at line 25, which has the same body.(åşáÿ
+?squid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ÕÉàë
+1squid:S2438@""Argument 1" is a "Thread".(¡õ¹!
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÊúÄùÿÿÿÿ
+1squid:S2438A""Argument 1" is a "Thread".(¡õ¹!
+`squid:S2147"DCombine this catch with the one at line 25, which has the same body.(¥¨›ıÿÿÿÿ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(’ùú­
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(èŞÏ¹
+1squid:S2438?""Argument 1" is a "Thread".(¡õ¹!
+1squid:S2438>""Argument 1" is a "Thread".(¡õ¹!
+1squid:S2438B""Argument 1" is a "Thread".(¡õ¹!
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+`squid:S2147"DCombine this catch with the one at line 25, which has the same body.(¼¯•¶ùÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

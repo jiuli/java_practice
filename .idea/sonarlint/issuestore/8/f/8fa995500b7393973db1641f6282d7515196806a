@@ -1,0 +1,30 @@
+
+_squid:S2095/"HUse try-with-resources or close this "Connection" in a "finally" clause.(…‡ª
+^squid:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â‹í úÿÿÿÿ
+[squid:S2147"DCombine this catch with the one at line 22, which has the same body.(Å¡ß
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+^squid:S2095A"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ªœ½Ó
+?squid:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N
+squid:S106@"9Replace this use of System.out or System.err by a logger.(°°ô
+`squid:S2147"DCombine this catch with the one at line 22, which has the same body.(µØ¯®øÿÿÿÿ
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(˜¾û®ÿÿÿÿÿ
+^squid:S20955"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(âä·Ø
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+\squid:S22592"@A "NullPointerException" could be thrown; "o1" is nullable here.(˜¾û®ÿÿÿÿÿ
+O
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÕÊ¦—
+`squid:S2147"DCombine this catch with the one at line 22, which has the same body.(¥¨›ıÿÿÿÿ
+^squid:S2095B"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(âä·Ø
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ªœ½Ó
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(³©ìÿÿÿÿÿ

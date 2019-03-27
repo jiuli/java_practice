@@ -1,0 +1,8 @@
+
+_squid:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ùƒ°­
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ²Év
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²ê‡Þùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ·¨¾ûÿÿÿÿ
+hsquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(éÒ°öøÿÿÿÿ

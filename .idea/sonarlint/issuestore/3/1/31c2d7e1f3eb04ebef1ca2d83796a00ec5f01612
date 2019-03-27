@@ -1,10 +1,10 @@
 
-Ysquid:S1854"=Remove this useless assignment to local variable "charArray".(ò„£Şøÿÿÿÿ
-Jsquid:S1481".Remove this unused "charArray" local variable.(ò„£Şøÿÿÿÿ
 ?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(î¢ı
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Í÷Ø©ÿÿÿÿÿ
+Jsquid:S1481".Remove this unused "charArray" local variable.(ò„£Şøÿÿÿÿ
 T
 squid:S106	"9Replace this use of System.out or System.err by a logger.(Å‡Å ùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¢ı
+Ysquid:S1854"=Remove this useless assignment to local variable "charArray".(ò„£Şøÿÿÿÿ

@@ -1,5 +1,5 @@
 
-0squid:S2225."Return a non null object.(¥¹ï
+osquid:S2975'"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ßîæ¶ùÿÿÿÿ
 T
 squid:S106-"9Replace this use of System.out or System.err by a logger.(ÒèÇˆıÿÿÿÿ
-osquid:S2975'"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ßîæ¶ùÿÿÿÿ
+0squid:S2225."Return a non null object.(¥¹ï

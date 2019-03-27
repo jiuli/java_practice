@@ -1,15 +1,15 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¢è—¬şÿÿÿÿ
-T
-squid:S1065"9Replace this use of System.out or System.err by a logger.(È³“Éüÿÿÿÿ
-O
-squid:S106&"9Replace this use of System.out or System.err by a logger.(£óòú
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²¯îåùÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÆëŞøÿÿÿÿ
-T
-squid:S1060"9Replace this use of System.out or System.err by a logger.(…›Şøùÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ…±ß
-squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²¯îåùÿÿÿÿ
 O
 squid:S106 "9Replace this use of System.out or System.err by a logger.(Ÿ‰Õš
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(È³“Éüÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(…›Şøùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢è—¬şÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ…±ß
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(£óòú

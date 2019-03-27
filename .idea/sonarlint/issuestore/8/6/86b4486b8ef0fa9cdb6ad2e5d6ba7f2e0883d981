@@ -1,7 +1,7 @@
 
-Fsquid:S1068"*Remove this unused "part_b" private field.(þ¼æÀúÿÿÿÿ
 nsquid:S00116"QRename this field "part_b" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þ¼æÀúÿÿÿÿ
-nsquid:S00116	"QRename this field "part_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†°ç°ùÿÿÿÿ
+Fsquid:S1068"*Remove this unused "part_b" private field.(þ¼æÀúÿÿÿÿ
 nsquid:S00116"QRename this field "part_a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý’µçýÿÿÿÿ
+nsquid:S00116	"QRename this field "part_c" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†°ç°ùÿÿÿÿ
 Fsquid:S1068"*Remove this unused "part_a" private field.(ý’µçýÿÿÿÿ
 Fsquid:S1068	"*Remove this unused "part_c" private field.(†°ç°ùÿÿÿÿ

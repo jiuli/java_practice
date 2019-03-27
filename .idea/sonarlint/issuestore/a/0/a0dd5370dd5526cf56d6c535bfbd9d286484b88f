@@ -1,9 +1,9 @@
 
-Gsquid:S3985"0Remove this unused private "PrivateClass" class.(‘ÜÇ€
-Fsquid:S1068"0Remove this unused "privateField" private field.(øÔC
-Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(‘ÜÇ€
-squid:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†êåşÿÿÿÿ
-˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø†áÄ
 Wsquid:UnusedPrivateMethod"2Remove this unused private "privateAction" method.(ø†áÄ
-˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ä¬û
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø†áÄ
+Fsquid:S1068"0Remove this unused "privateField" private field.(øÔC
+squid:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†êåşÿÿÿÿ
+Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(‘ÜÇ€
 squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÀñÆıÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ä¬û
+Gsquid:S3985"0Remove this unused private "PrivateClass" class.(‘ÜÇ€

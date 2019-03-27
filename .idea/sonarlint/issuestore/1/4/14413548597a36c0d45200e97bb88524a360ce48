@@ -1,9 +1,9 @@
 
-¢%squid:RedundantThrowsDeclarationCheck/"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(•Î°Ùýÿÿÿÿ
-gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ªðÈñýÿÿÿÿ
-®%squid:RedundantThrowsDeclarationCheck:"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¥—ï»øÿÿÿÿ
 Bsquid:S1075""&Remove this hard-coded path-delimiter.(ù™»õÿÿÿÿÿ
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ªðÈñýÿÿÿÿ
 nsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëþÅ“ûÿÿÿÿ
-psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ»º‘
 isquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÊ¨˜
+psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ
+®%squid:RedundantThrowsDeclarationCheck:"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¥—ï»øÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck/"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(•Î°Ùýÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ»º‘

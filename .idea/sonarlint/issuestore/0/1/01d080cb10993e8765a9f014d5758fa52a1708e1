@@ -1,32 +1,32 @@
 
-T
-squid:S106!"9Replace this use of System.out or System.err by a logger.(àùÇğûÿÿÿÿ
-O
-squid:S106)"9Replace this use of System.out or System.err by a logger.(ˆÀš
 isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’«Àû
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(àùÇğûÿÿÿÿ
-O
-squid:S106$"9Replace this use of System.out or System.err by a logger.(“…Óü
-T
-squid:S106("9Replace this use of System.out or System.err by a logger.(åÀıÿÿÿÿ
-O
-squid:S106%"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ï÷šŸ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ø¹›Øûÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¦¨
-O
-squid:S106'"9Replace this use of System.out or System.err by a logger.(¯íğ³
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬
-O
-squid:S106#"9Replace this use of System.out or System.err by a logger.(Î‚÷º
-T
-squid:S106""9Replace this use of System.out or System.err by a logger.(Î¼„íşÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éŞÓ™
 T
 squid:S106*"9Replace this use of System.out or System.err by a logger.(ÒôªÄşÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ê„½ğüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(àùÇğûÿÿÿÿ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(åÀıÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(Î¼„íşÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¯íğ³
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éŞÓ™
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¦¨
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø¹›Øûÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Î‚÷º
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ğÔ‘¬
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ˆÀš
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(“…Óü
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(àùÇğûÿÿÿÿ

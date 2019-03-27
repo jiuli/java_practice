@@ -1,0 +1,9 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ÇÂ—
+Fsquid:S1444"*Make this "public static lock" field final(•Æ İùÿÿÿÿ
+>squid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Asquid:S00108")Either remove or fill this block of code.(”ı¾
+9squid:S2386"Make this member "protected".(•Æ İùÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck"PMake lock a static final constant or non-public and provide accessors if needed.(•Æ İùÿÿÿÿ
+>squid:S1444"'Make this "public static r" field final(¾ôÖÄ
+{"squid:ClassVariableVisibilityCheck"MMake r a static final constant or non-public and provide accessors if needed.(¾ôÖÄ

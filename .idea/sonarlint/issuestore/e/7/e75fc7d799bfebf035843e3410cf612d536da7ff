@@ -1,8 +1,8 @@
 
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÖàĞÕ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ù»¿Øùÿÿÿÿ
 O
-squid:S106"9Replace this use of System.out or System.err by a logger.(šÏ¨
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖàĞÕ
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ…±ß
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÏ¨

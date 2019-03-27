@@ -1,0 +1,85 @@
+
+>squid:S1481ø"&Remove this unused "d" local variable.(í»«ô
+Dsquid:S1481«"'Remove this unused "re" local variable.(úÃìüúÿÿÿÿ
+Asquid:S00108 ")Either remove or fill this block of code.(”ı¾
+1squid:S2178ú"Correct this "&" to "&&".(“ï†Ã
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(°Ÿö 
+„ squid:ForLoopCounterChangedCheck´"XRefactor the code in order to not assign to this loop counter from within the loop body.(ç‘¯h
+Asquid:S00108")Either remove or fill this block of code.(”ı¾
+7squid:S1659À"Declare "y" on a separate line.(ùç—©
+Rsquid:S1854û"5Remove this useless assignment to local variable "d".(Ì‡®Ãÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤˜ø˜ûÿÿÿÿ
+Msquid:S1854|"6Remove this useless assignment to local variable "re".(ÎùĞá
+=squid:S1481"&Remove this unused "a" local variable.(€ôá
+Csquid:S1481Ğ"&Remove this unused "x" local variable.(Í‚íüÿÿÿÿ
+psquid:S3973²"XUse curly braces or indentation to denote the code conditionally executed by this "for".(Ôæ»¤
+>squid:S1481…"&Remove this unused "d" local variable.(í»«ô
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îäİ¥ùÿÿÿÿ
+Bsquid:S1481>"&Remove this unused "a" local variable.(Äúúÿÿÿÿ
+U
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(âô‚€ÿÿÿÿÿ
+P
+squid:S106–"9Replace this use of System.out or System.err by a logger.(£Œ£Ö
+P
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(¢êûŠ
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Çæ†§
+\squid:S2583ú"DChange this condition so that it does not always evaluate to "false"(“ï†Ã
+"squid:ClassVariableVisibilityCheck"NMake ta a static final constant or non-public and provide accessors if needed.(Ê–ˆíøÿÿÿÿ
+~squid:S2178ú"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(“ï†Ã
+psquid:S3973¡"XUse curly braces or indentation to denote the code conditionally executed by this "for".(Ôæ»¤
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(öŸƒ˜
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Î¤‚ïûÿÿÿÿ
+P
+squid:S106©"9Replace this use of System.out or System.err by a logger.(Æ××ò
+\squid:S2583‡"DChange this condition so that it does not always evaluate to "false"(¯şÍ×
+Dsquid:S1481…"'Remove this unused "re" local variable.(úÃìüúÿÿÿÿ
+<squid:S1659Ğ"Declare "y" on a separate line.(Í‚íüÿÿÿÿ
+Dsquid:S1481›"'Remove this unused "re" local variable.(úÃìüúÿÿÿÿ
+Csquid:S1481Ğ"&Remove this unused "y" local variable.(Í‚íüÿÿÿÿ
+Msquid:S1854´"6Remove this useless assignment to local variable "re".(ç‘¯h
+Csquid:S1481z"'Remove this unused "re" local variable.(úÃìüúÿÿÿÿ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(Ê¨·—
+Ssquid:S1854‡"6Remove this useless assignment to local variable "re".(›ÂÄÇùÿÿÿÿ
+>squid:S1481À"&Remove this unused "y" local variable.(ùç—©
+P
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(”µğÌ
+Rsquid:S1854Ä"5Remove this useless assignment to local variable "y".(îİüÿÿÿÿ
+U
+squid:S106š"9Replace this use of System.out or System.err by a logger.(£ıÆÔùÿÿÿÿ
+=squid:S1481"&Remove this unused "a" local variable.(€ôá
+=squid:S1481)"&Remove this unused "a" local variable.(€ôá
+Š squid:ForLoopCounterChangedCheck®"XRefactor the code in order to not assign to this loop counter from within the loop body.(«ó•ôıÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â›Î5
+qsquid:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃªÄ…
+Rsquid:S1854Õ"5Remove this useless assignment to local variable "y".(»ò¿Ëşÿÿÿÿ
+Msquid:S1854Ô"5Remove this useless assignment to local variable "x".(—©¬ô
+<squid:S1659Ğ"Declare "x" on a separate line.(Í‚íüÿÿÿÿ
+qsquid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃªÄ…
+Rsquid:S26965"6Make the enclosing method "static" or remove this set.(ÿ²»¸şÿÿÿÿ
+P
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(¡Ì¿Ş
+Bsquid:S1481J"&Remove this unused "a" local variable.(Äúúÿÿÿÿ
+Ssquid:S1854£"6Remove this useless assignment to local variable "re".(í‰·şÿÿÿÿ
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ê¨·—
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ûöˆ¤şÿÿÿÿ
+U
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ŞË¡Äùÿÿÿÿ
+Dsquid:S1481"'Remove this unused "re" local variable.(úÃìüúÿÿÿÿ
+P
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Úëì
+Nsquid:S1854“"6Remove this useless assignment to local variable "re".(Üõ£Ô
+Rsquid:S1854ˆ"5Remove this useless assignment to local variable "d".(Ì‡®Ãÿÿÿÿÿ
+U
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(¦ßÔÍúÿÿÿÿ
+Dsquid:S1444"(Make this "public static ta" field final(Ê–ˆíøÿÿÿÿ
+Rsquid:S1854Ã"5Remove this useless assignment to local variable "x".(ÊãÒ»úÿÿÿÿ
+>squid:S1481À"&Remove this unused "x" local variable.(ùç—©

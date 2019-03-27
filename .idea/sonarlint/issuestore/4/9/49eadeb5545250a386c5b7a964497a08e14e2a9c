@@ -1,21 +1,21 @@
 
-dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(­ÛÃ’ıÿÿÿÿ
+vsquid:S1488‚"^Immediately return this expression instead of assigning it to the temporary variable "sslCsf".(ìÙŞ
+jsquid:S1192ª"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(€ÿ­óşÿÿÿÿ
+qsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(è‘É€
+_squid:S00112ò"FDefine and throw a dedicated exception instead of using a generic one.(àú­†
 U
 squid:S106×"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
-@squid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-qsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(è‘É€
-isquid:S2095Ñ"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
+vsquid:S1488š"^Immediately return this expression instead of assigning it to the temporary variable "sslCsf".(¹ÀË
 W
 squid:S106à"9Replace this use of System.out or System.err by a logger.(Ò§öÖ8·‚¢ƒ…-
-dsquid:S2259à"L"NullPointerException" will be thrown when invoking method "httpPostForm()".(‘ï¤ú
-vsquid:S1488‚"^Immediately return this expression instead of assigning it to the temporary variable "sslCsf".(ìÙŞ
-vsquid:S1488š"^Immediately return this expression instead of assigning it to the temporary variable "sslCsf".(¹ÀË
+@squid:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+dsquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(­ÛÃ’ıÿÿÿÿ
 dsquid:S00112º"FDefine and throw a dedicated exception instead of using a generic one.(ø½ùûÿÿÿÿ
-_squid:S00112ò"FDefine and throw a dedicated exception instead of using a generic one.(àú­†
-dsquid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(¸èçéüÿÿÿÿ
-_squid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(İşŒº
-£%squid:RedundantThrowsDeclarationCheckõ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¸èçéüÿÿÿÿ
-dsquid:S00112ğ"FDefine and throw a dedicated exception instead of using a generic one.(º”’µşÿÿÿÿ
-jsquid:S1192ª"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(€ÿ­óşÿÿÿÿ
 qsquid:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÖù†
+dsquid:S00112õ"FDefine and throw a dedicated exception instead of using a generic one.(¸èçéüÿÿÿÿ
+dsquid:S2259à"L"NullPointerException" will be thrown when invoking method "httpPostForm()".(‘ï¤ú
+£%squid:RedundantThrowsDeclarationCheckõ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¸èçéüÿÿÿÿ
+_squid:S00112€"FDefine and throw a dedicated exception instead of using a generic one.(İşŒº
+isquid:S2095Ñ"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ıê”Ê
+dsquid:S00112ğ"FDefine and throw a dedicated exception instead of using a generic one.(º”’µşÿÿÿÿ
 dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ê³ŒÒşÿÿÿÿ

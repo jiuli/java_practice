@@ -1,21 +1,21 @@
 
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(€°õÐûÿÿÿÿ
-msquid:S1192
-"QDefine a constant instead of duplicating this literal "Ethan ordered a " 4 times.(€°õÐûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
-T
 squid:S106
 "9Replace this use of System.out or System.err by a logger.(€°õÐûÿÿÿÿ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(€°õÐûÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
+lsquid:S1192"PDefine a constant instead of duplicating this literal "Joel ordered a " 4 times.(œÓŸ€ûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(€°õÐûÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(€°õÐûÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(€°õÐûÿÿÿÿ
-lsquid:S1192"PDefine a constant instead of duplicating this literal "Joel ordered a " 4 times.(œÓŸ€ûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÓŸ€ûÿÿÿÿ
+msquid:S1192
+"QDefine a constant instead of duplicating this literal "Ethan ordered a " 4 times.(€°õÐûÿÿÿÿ

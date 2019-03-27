@@ -1,94 +1,94 @@
 
-Ysquid:S1854";Remove this useless assignment to local variable "hashSet".(Ù„õª8ì¾Éå•-
-[
-squid:S106j"9Replace this use of System.out or System.err by a logger.(ÙÓÎûÿÿÿÿ8ì¾Éå•-
-\squid:UselessImportCheck"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¬ô¨œ‘-
-[
-squid:S1066"9Replace this use of System.out or System.err by a logger.(«Ó‡æøÿÿÿÿ8üé€æ•-
-gsquid:S1192s"IDefine a constant instead of duplicating this literal "name is " 3 times.(ÙúÀ€8«“İì’-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ã‰ĞŒıÿÿÿÿ8üé€æ•-
 V
 squid:S106f"9Replace this use of System.out or System.err by a logger.(˜î„Û8«“İì’-
-@squid:S2386"Make this member "protected".(†Ñ½«øÿÿÿÿ8Ä¬İÿ„-
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìáé´ıÿÿÿÿ
-[
-squid:S106,"9Replace this use of System.out or System.err by a logger.(ÀìòÔÿÿÿÿÿ8¿û·Á’-
-V
-squid:S106`"9Replace this use of System.out or System.err by a logger.(Ø‡Ø€8üé€æ•-
-Jsquid:S1481",Remove this unused "hashSet" local variable.(Ù„õª8ì¾Éå•-
-\squid:S1854-">Remove this useless assignment to local variable "linkedList".(Şç½Å8ì¾Éå•-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–ãš¬øÿÿÿÿ8ì¾Éå•-
-U
-squid:S1061"9Replace this use of System.out or System.err by a logger.(‹ Œl8«“İì’-
-V
-squid:S106h"9Replace this use of System.out or System.err by a logger.(¦óÔç8ì¾Éå•-
-Osquid:S1612I",Replace this lambda with a method reference.(à”á®şÿÿÿÿ8«“İì’-
-[
-squid:S106D"9Replace this use of System.out or System.err by a logger.(½ôêùÿÿÿÿ8«“İì’-
-[
-squid:S106'"9Replace this use of System.out or System.err by a logger.(ßø¼Ÿüÿÿÿÿ8«“İì’-
-Qsquid:S1481@".Remove this unused "initList2" local variable.(Ù©Â¤ÿÿÿÿÿ8«“İì’-
-;squid:S2386"Make this member "protected".(÷©ã›8¬ô¨œ‘-
-nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(º¿ëûüÿÿÿÿ8«“İì’-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(˜ÇŠşÿÿÿÿ8üé€æ•-
-P
-squid:S106€"9Replace this use of System.out or System.err by a logger.(Ü¶ŠÆ
-Ksquid:S1481."(Remove this unused "one" local variable.(íºÇ–úÿÿÿÿ8«“İì’-
-[
-squid:S106a"9Replace this use of System.out or System.err by a logger.(ŸÌ¯ıÿÿÿÿ8¬ô¨œ‘-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(“¯³¾8ì¾Éå•-
 W
 squid:S106†"9Replace this use of System.out or System.err by a logger.(ÿ·’8üé€æ•-
+osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(¦ÿ†Ğøÿÿÿÿ8«“İì’-
+;squid:S2386"Make this member "protected".(ĞÀœ×8¬ô¨œ‘-
+\
+squid:S106„"9Replace this use of System.out or System.err by a logger.(³şàèùÿÿÿÿ8üé€æ•-
+isquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ÎÁÖ°8«“İì’-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Íç¿ıÿÿÿÿ8üé€æ•-
+@squid:S2386"Make this member "protected".(†Ñ½«øÿÿÿÿ8Ä¬İÿ„-
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(‹ Œl8«“İì’-
+Qsquid:S1481@".Remove this unused "initList2" local variable.(Ù©Â¤ÿÿÿÿÿ8«“İì’-
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(öœá¹øÿÿÿÿ8üé€æ•-
+[
+squid:S106u"9Replace this use of System.out or System.err by a logger.(³şàèùÿÿÿÿ8«“İì’-
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(µµí”ûÿÿÿÿ8«“İì’-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÀìòÔÿÿÿÿÿ8¿û·Á’-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(«Ó‡æøÿÿÿÿ8üé€æ•-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(”ê°¸8«“İì’-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(½ôêùÿÿÿÿ8«“İì’-
+\
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(±›Ä©ùÿÿÿÿ8«“İì’-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–ãš¬øÿÿÿÿ8ì¾Éå•-
+nsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(º¿ëûüÿÿÿÿ8«“İì’-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(°á³üÿÿÿÿ8«“İì’-
+[
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8üé€æ•-
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(ÓÍ¼‡úÿÿÿÿ8¿û·Á’-
+;squid:S2386"Make this member "protected".(îàóë8Ä¬İÿ„-
+\squid:S1854-">Remove this useless assignment to local variable "linkedList".(Şç½Å8ì¾Éå•-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìáé´ıÿÿÿÿ
+Osquid:S1612I",Replace this lambda with a method reference.(à”á®şÿÿÿÿ8«“İì’-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜ÇŠşÿÿÿÿ8üé€æ•-
+`squid:S1854@"=Remove this useless assignment to local variable "initList2".(Ù©Â¤ÿÿÿÿÿ8«“İì’-
+@squid:S2386"Make this member "protected".(¯Âº—ÿÿÿÿÿ8Ä¬İÿ„-
 [
 squid:S106G"9Replace this use of System.out or System.err by a logger.(ä†¸ıÿÿÿÿ8¿û·Á’-
 V
 squid:S106S"9Replace this use of System.out or System.err by a logger.(²¿ò8ûûõ„…-
-W
-squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(…øÂí8üé€æ•-
-V
-squid:S106W"9Replace this use of System.out or System.err by a logger.(§²Şá8ì¾Éå•-
-isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(‚å³î8«“İì’-
-;squid:S2386"Make this member "protected".(ĞÀœ×8¬ô¨œ‘-
-V
-squid:S1060"9Replace this use of System.out or System.err by a logger.(”ê°¸8«“İì’-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ«­ƒ8«“İì’-
-Msquid:S1481-"/Remove this unused "linkedList" local variable.(Şç½Å8ì¾Éå•-
-;squid:S2386"Make this member "protected".(îàóë8Ä¬İÿ„-
-\
-squid:S106‚"9Replace this use of System.out or System.err by a logger.(±›Ä©ùÿÿÿÿ8«“İì’-
-\
-squid:S106„"9Replace this use of System.out or System.err by a logger.(³şàèùÿÿÿÿ8üé€æ•-
-[
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(°á³üÿÿÿÿ8«“İì’-
-[
-squid:S106~"9Replace this use of System.out or System.err by a logger.(²èé¼øÿÿÿÿ8ì¾Éå•-
-isquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(ÅÙ…8«“İì’-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Íç¿ıÿÿÿÿ8üé€æ•-
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±á¤£ûÿÿÿÿ8üé€æ•-
-isquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(ÎÁÖ°8«“İì’-
-[
-squid:S106u"9Replace this use of System.out or System.err by a logger.(³şàèùÿÿÿÿ8«“İì’-
-V
-squid:S106H"9Replace this use of System.out or System.err by a logger.(«øß³8«“İì’-
-[
-squid:S106\"9Replace this use of System.out or System.err by a logger.(µµí”ûÿÿÿÿ8«“İì’-
-W
-squid:S106"9Replace this use of System.out or System.err by a logger.(“¯³¾8ì¾Éå•-
-`squid:S1854@"=Remove this useless assignment to local variable "initList2".(Ù©Â¤ÿÿÿÿÿ8«“İì’-
-@squid:S2386"Make this member "protected".(¯Âº—ÿÿÿÿÿ8Ä¬İÿ„-
-[
-squid:S106k"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8üé€æ•-
-[
-squid:S106m"9Replace this use of System.out or System.err by a logger.(öœá¹øÿÿÿÿ8üé€æ•-
-[
-squid:S106["9Replace this use of System.out or System.err by a logger.(ÓÍ¼‡úÿÿÿÿ8¿û·Á’-
-osquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(¦ÿ†Ğøÿÿÿÿ8«“İì’-
-V
-squid:S1062"9Replace this use of System.out or System.err by a logger.(Æí¶Â8ì¾Éå•-
 [
 squid:S106i"9Replace this use of System.out or System.err by a logger.(õÅ‡ñøÿÿÿÿ8«“İì’-
 V
+squid:S106W"9Replace this use of System.out or System.err by a logger.(§²Şá8ì¾Éå•-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ«­ƒ8«“İì’-
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(Ø‡Ø€8üé€æ•-
+[
+squid:S106~"9Replace this use of System.out or System.err by a logger.(²èé¼øÿÿÿÿ8ì¾Éå•-
+Jsquid:S1481",Remove this unused "hashSet" local variable.(Ù„õª8ì¾Éå•-
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(¦óÔç8ì¾Éå•-
+Ysquid:S1854";Remove this useless assignment to local variable "hashSet".(Ù„õª8ì¾Éå•-
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ŸÌ¯ıÿÿÿÿ8¬ô¨œ‘-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±á¤£ûÿÿÿÿ8üé€æ•-
+[
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ÙÓÎûÿÿÿÿ8ì¾Éå•-
+V
 squid:S106X"9Replace this use of System.out or System.err by a logger.(¦Å³·8üé€æ•-
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(«øß³8«“İì’-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ßø¼Ÿüÿÿÿÿ8«“İì’-
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Æí¶Â8ì¾Éå•-
+W
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(…øÂí8üé€æ•-
+Ksquid:S1481."(Remove this unused "one" local variable.(íºÇ–úÿÿÿÿ8«“İì’-
+P
+squid:S106€"9Replace this use of System.out or System.err by a logger.(Ü¶ŠÆ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã‰ĞŒıÿÿÿÿ8üé€æ•-
+gsquid:S1192s"IDefine a constant instead of duplicating this literal "name is " 3 times.(ÙúÀ€8«“İì’-
+Msquid:S1481-"/Remove this unused "linkedList" local variable.(Şç½Å8ì¾Éå•-
+;squid:S2386"Make this member "protected".(÷©ã›8¬ô¨œ‘-
+isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(‚å³î8«“İì’-
+\squid:UselessImportCheck"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8¬ô¨œ‘-
+isquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(ÅÙ…8«“İì’-

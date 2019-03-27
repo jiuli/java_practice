@@ -1,6 +1,6 @@
 
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1604"(Make this anonymous inner class a lambda(Ö¶õ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(éĞ«şÿÿÿÿ
-?squid:S1604"(Make this anonymous inner class a lambda(Ö¶õ
-?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

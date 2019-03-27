@@ -1,5 +1,5 @@
 
 Hsquid:S1481",Remove this unused "myFrame" local variable.(ά“ϋÿÿÿÿ
-jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(πΎδώÿÿÿÿ
 Wsquid:S1854";Remove this useless assignment to local variable "myFrame".(ά“ϋÿÿÿÿ
 Qsquid:S1161":Add the "@Override" annotation above this method signature(¤™–Ε
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(πΎδώÿÿÿÿ

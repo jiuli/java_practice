@@ -1,0 +1,12 @@
+
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Åü®–
+=squid:S1481"&Remove this unused "o" local variable.(ûÑêò
+Bsquid:S1172'"+Remove this unused method parameter "name".(‚şø¨
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œàÕÊ
+Qsquid:S1854 "5Remove this useless assignment to local variable "o".(‘åˆüüÿÿÿÿ
+Qsquid:S18548"5Remove this useless assignment to local variable "o".(‘åˆüüÿÿÿÿ
+=squid:S1481*"&Remove this unused "o" local variable.(ûÑêò
+Qsquid:S1854/"5Remove this useless assignment to local variable "o".(äæ’Øüÿÿÿÿ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Åü®–

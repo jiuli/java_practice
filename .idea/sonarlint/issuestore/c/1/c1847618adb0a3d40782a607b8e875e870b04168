@@ -1,0 +1,13 @@
+
+Msquid:S1854="6Remove this useless assignment to local variable "b3".(Çòï¡
+>squid:S14818"'Remove this unused "b3" local variable.(úÍèî
+Tsquid:S11977"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+7squid:S16598" Declare "b2" on a separate line.(úÍèî
+>squid:S14818"'Remove this unused "b1" local variable.(úÍèî
+Rsquid:S18549"6Remove this useless assignment to local variable "b1".(âşß­ùÿÿÿÿ
+7squid:S16598" Declare "b3" on a separate line.(úÍèî
+Rsquid:S1854<"6Remove this useless assignment to local variable "b3".(ËÏ•ºüÿÿÿÿ
+Msquid:S1854;"6Remove this useless assignment to local variable "b3".(Çòï¡
+Msquid:S1854:"6Remove this useless assignment to local variable "b2".(ÚĞ‹ì
+>squid:S14818"'Remove this unused "b2" local variable.(úÍèî
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÈıƒ

@@ -1,4 +1,4 @@
 
 Œsquid:S1319	"pThe type of the "items" object should be an interface such as "List" rather than the implementation "ArrayList".(¡×ºÿøÿÿÿÿ
-Wsquid:S1126"AReplace this if-then-else statement by a single return statement.(²Õ÷G
 @squid:S1905")Remove this unnecessary cast to "String".(­£žª
+Wsquid:S1126"AReplace this if-then-else statement by a single return statement.(²Õ÷G

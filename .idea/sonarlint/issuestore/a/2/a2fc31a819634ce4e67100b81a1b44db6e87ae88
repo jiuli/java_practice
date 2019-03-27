@@ -1,0 +1,7 @@
+
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ÕÎW
+=squid:S2129$"!Remove this "Integer" constructor(ýöÁìýÿÿÿÿ
+Bsquid:S1481"&Remove this unused "l" local variable.(ž¾È™üÿÿÿÿ
+=squid:S2129."!Remove this "Integer" constructor(ýöÁìýÿÿÿÿ
+=squid:S2129"!Remove this "Integer" constructor(ýöÁìýÿÿÿÿ
+Qsquid:S1854"5Remove this useless assignment to local variable "l".(ž¾È™üÿÿÿÿ

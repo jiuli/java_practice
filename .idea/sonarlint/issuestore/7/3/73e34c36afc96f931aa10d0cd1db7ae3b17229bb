@@ -1,6 +1,5 @@
 
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¥ƒ“ýÿÿÿÿ
-Qsquid:S1161":Add the "@Override" annotation above this method signature(ÂÍì³
-T
 squid:S106	"9Replace this use of System.out or System.err by a logger.(Ó¼üÔüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¥ƒ“ýÿÿÿÿ

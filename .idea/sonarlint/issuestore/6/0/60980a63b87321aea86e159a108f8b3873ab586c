@@ -1,8 +1,8 @@
 
 T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒæÍüùÿÿÿÿ
+T
 squid:S106"9Replace this use of System.out or System.err by a logger.(“ß¿†ÿÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ûËËÃşÿÿÿÿ
 ‡squid:S1319	"pThe type of the "menus" object should be an interface such as "List" rather than the implementation "ArrayList".(‘Ğ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÒæÍüùÿÿÿÿ

@@ -1,23 +1,23 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ”öıÿÿÿÿ
-]squid:S1126."AReplace this if-then-else statement by a single return statement.(§Û•Âùÿÿÿÿ
+Ksquid:S1066D"/Merge this if statement with the enclosing one.(ë¨Û¹úÿÿÿÿ
 T
 squid:S1069"9Replace this use of System.out or System.err by a logger.(­Œ„ëıÿÿÿÿ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(“ß¿†ÿÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å¨——ıÿÿÿÿ
-T
 squid:S106:"9Replace this use of System.out or System.err by a logger.(¾ÆØÈúÿÿÿÿ
 T
-squid:S106;"9Replace this use of System.out or System.err by a logger.(Ü»áùÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûËËÃşÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ß¿†ÿÿÿÿÿ
 T
 squid:S106$"9Replace this use of System.out or System.err by a logger.(Å¨——ıÿÿÿÿ
-Ksquid:S1066D"/Merge this if statement with the enclosing one.(ë¨Û¹úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ”öıÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å¨——ıÿÿÿÿ
+]squid:S1126."AReplace this if-then-else statement by a single return statement.(§Û•Âùÿÿÿÿ
+T
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ü»áùÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÒæÍüùÿÿÿÿ
 T
 squid:S106""9Replace this use of System.out or System.err by a logger.(ş§ğÈúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûËËÃşÿÿÿÿ

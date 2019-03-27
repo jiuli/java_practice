@@ -1,11 +1,11 @@
 
-Ksquid:S1068"/Remove this unused "weatherData" private field.(עÿֹ™רÿÿÿÿ
-Ssquid:S2589"7Remove this expression which always evaluates to "true"(°ֶ„מתÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(טֽװ„üÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(‎Êװּÿÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(לְ¹ָ
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(°ֶ„מתÿÿÿÿ
+Ksquid:S1068"/Remove this unused "weatherData" private field.(עÿֹ™רÿÿÿÿ
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(ע¶ח
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(לְ¹ָ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(טֽװ„üÿÿÿÿ

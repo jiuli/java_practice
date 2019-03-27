@@ -1,13 +1,13 @@
 
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø³‘ÿÿÿÿÿ
-vsquid:S00116"YRename this field "set_bpm_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô—ˆüÿÿÿÿ
-˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì‡á
-qsquid:S00116"YRename this field "bpm_text_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãº˜ø
 rsquid:S00116"URename this field "view_frame" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¼«ıûÿÿÿÿ
-wsquid:S00116"ZRename this field "start_menu_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Œ»¨ùÿÿÿÿ
-vsquid:S00116"^Rename this field "decrease_bpm_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Äï
-psquid:S00116"SRename this field "beat_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¶†“úÿÿÿÿ
-vsquid:S00116"YRename this field "stop_menu_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“Â¾ıÿÿÿÿ
-rsquid:S00116"URename this field "view_panel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•âµ›ùÿÿÿÿ
-qsquid:S00116"TRename this field "bpm_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Åï§üÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ì‡á
 vsquid:S00116"^Rename this field "increase_bpm_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ì­“
+vsquid:S00116"YRename this field "stop_menu_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê“Â¾ıÿÿÿÿ
+qsquid:S00116"TRename this field "bpm_label" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Åï§üÿÿÿÿ
+vsquid:S00116"YRename this field "set_bpm_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô—ˆüÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø³‘ÿÿÿÿÿ
+wsquid:S00116"ZRename this field "start_menu_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Œ»¨ùÿÿÿÿ
+qsquid:S00116"YRename this field "bpm_text_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãº˜ø
+psquid:S00116"SRename this field "beat_bar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¶†“úÿÿÿÿ
+rsquid:S00116"URename this field "view_panel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•âµ›ùÿÿÿÿ
+vsquid:S00116"^Rename this field "decrease_bpm_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Äï

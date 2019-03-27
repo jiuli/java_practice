@@ -1,0 +1,10 @@
+
+Asquid:S00108-")Either remove or fill this block of code.(”ı¾
+Asquid:S00108")Either remove or fill this block of code.(”ı¾
+rsquid:S00115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Î—á
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á›°–
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ŞâÒ·ÿÿÿÿÿ
+Tsquid:S11972"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¯‡ùùÿÿÿÿ

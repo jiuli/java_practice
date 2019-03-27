@@ -1,19 +1,19 @@
 
-usquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÌ‹Æùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(»…éø
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(´€åóûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(â¢ÿ°ÿÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(­«Õùúÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÇµX
+usquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÌ‹Æùÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(äÕõ¯ûÿÿÿÿ
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ö³àÉ
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(´€åóûÿÿÿÿ
-T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Éä±Äýÿÿÿÿ
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÇµX
 vsquid:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ž×œÇ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(»…éø
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(â¢ÿ°ÿÿÿÿÿ

@@ -1,0 +1,7 @@
+
+psquid:S3973"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ÔÍØ
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê»Øµÿÿÿÿÿ
+Zsquid:S1155
+">Use isEmpty() to check whether the collection is empty or not.(†±©¬þÿÿÿÿ
+Gsquid:S2446"0"notify" may not wake up the appropriate thread.(­ÀôÉ

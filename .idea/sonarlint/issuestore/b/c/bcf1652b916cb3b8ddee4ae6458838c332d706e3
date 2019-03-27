@@ -1,0 +1,27 @@
+
+Asquid:S1481B"*Remove this unused "count" local variable.(æÕ¿¼
+bsquid:S1192&"FDefine a constant instead of duplicating this literal "north" 5 times.(—Îùÿÿÿÿ
+c$squid:AssignmentInSubExpressionCheckG".Extract the assignment out of this expression.(½‡»ıÿÿÿÿ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(·©ß²
+fsquid:S00100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºˆáŸ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+]squid:S1192("FDefine a constant instead of duplicating this literal "south" 5 times.(ÃóÄ¤
+O
+squid:S106`"9Replace this use of System.out or System.err by a logger.(·©ß²
+|squid:S1149
+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(âõÖ 
+c$squid:AssignmentInSubExpressionCheckl".Extract the assignment out of this expression.(¾ôæ²ÿÿÿÿÿ
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(·©ß²
+Asquid:S1481U"*Remove this unused "count" local variable.(æÕ¿¼
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(·©ß²
+Asquid:S1481#"*Remove this unused "count" local variable.(æÕ¿¼
+Asquid:S14812"*Remove this unused "count" local variable.(æÕ¿¼
+Asquid:S1481g"*Remove this unused "count" local variable.(æÕ¿¼
+c$squid:AssignmentInSubExpressionCheckZ".Extract the assignment out of this expression.(¼Æ›şûÿÿÿÿ
+O
+squid:S106r"9Replace this use of System.out or System.err by a logger.(·©ß²
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œàÕÊ
+|squid:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¼ÊÎä

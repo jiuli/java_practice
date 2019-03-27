@@ -1,0 +1,15 @@
+
+Lsquid:S1854"5Remove this useless assignment to local variable "b".(é“±
+Psquid:S1854"9Remove this useless assignment to local variable "bLine".(çÛÚ
+Asquid:S1481"*Remove this unused "cLine" local variable.(ÿË¦è
+Fsquid:S1481"*Remove this unused "aLine" local variable.(öœª‡úÿÿÿÿ
+Lsquid:S1854"5Remove this useless assignment to local variable "c".(½öÀ¥
+Usquid:S1854"9Remove this useless assignment to local variable "aLine".(öœª‡úÿÿÿÿ
+Asquid:S1481"*Remove this unused "dLine" local variable.(÷ŸË
+Qsquid:S1854"5Remove this useless assignment to local variable "d".(üÍº‚úÿÿÿÿ
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(óŞÀ†øÿÿÿÿ
+Asquid:S1481"*Remove this unused "bLine" local variable.(çÛÚ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ç¨€İ
+Psquid:S1854"9Remove this useless assignment to local variable "cLine".(ÿË¦è
+Psquid:S1854"9Remove this useless assignment to local variable "dLine".(÷ŸË
+Lsquid:S1854"5Remove this useless assignment to local variable "e".(÷ÈëĞ

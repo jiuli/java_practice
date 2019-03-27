@@ -1,0 +1,19 @@
+
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+lsquid:UselessImportCheck
+"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+T
+squid:S1062"9Replace this use of System.out or System.err by a logger.(„ıùáÿÿÿÿÿ
+T
+squid:S106C"9Replace this use of System.out or System.err by a logger.(–ÕÄ¢üÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š©Ûèÿÿÿÿÿ
+Wsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+hsquid:UselessImportCheck	"?Remove this unused import 'java.util.concurrent.BlockingQueue'.(÷ÙÑÿÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş
+jsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü
+nsquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.LinkedBlockingQueue'.(ŸØšüÿÿÿÿ
+hsquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

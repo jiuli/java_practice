@@ -1,0 +1,31 @@
+
+N
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ì§¨
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(üÔ‡°ûÿÿÿÿ
+Qsquid:S11414"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÅŠ Š
+]squid:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+O
+squid:S106b"9Replace this use of System.out or System.err by a logger.(®ò¾
+]squid:S2142O"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+?squid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+]squid:S2142;"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S106:"9Replace this use of System.out or System.err by a logger.(³æ«Ä
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(“–ýþ
+?squid:S1148K"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Qsquid:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¶ó½¶üÿÿÿÿ
+]squid:S2142c"FEither re-interrupt this method or rethrow the "InterruptedException".(‘í†
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(Û€Í†øÿÿÿÿ
+Qsquid:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Qsquid:S1141H"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+O
+squid:S106d"9Replace this use of System.out or System.err by a logger.(Âè‚È
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑàÚ

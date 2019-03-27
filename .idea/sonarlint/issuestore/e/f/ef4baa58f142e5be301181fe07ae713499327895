@@ -1,0 +1,17 @@
+
+]squid:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheck1"UMake startTime a static final constant or non-public and provide accessors if needed.(üÓÆ™
+gsquid:S3008"PRename this field "DUMMY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šò‹…
+‚"squid:ClassVariableVisibilityCheck2"TMake funcname a static final constant or non-public and provide accessors if needed.(¬·”Ï
+jsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(ŠîĞ¯ÿÿÿÿÿ
+Vsquid:S11619":Add the "@Override" annotation above this method signature(‚”‡øÿÿÿÿ
+bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(ì÷Ÿ€
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÀ…Õ
+Hsquid:S1172B",Remove this unused method parameter "index".(·›ëõşÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ßˆ¥›

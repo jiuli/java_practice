@@ -1,0 +1,6 @@
+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(ÿŸ¾Ğüÿÿÿÿ
+bsquid:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(–ÛËçÿÿÿÿÿ
+[squid:S2886"DSynchronize this method to match the synchronization on "setTarget".(¡ã¥
+Fsquid:S001083")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßÛßûÿÿÿÿ

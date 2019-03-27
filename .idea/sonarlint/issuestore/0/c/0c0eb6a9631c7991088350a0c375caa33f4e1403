@@ -1,0 +1,9 @@
+
+Qsquid:S1161":Add the "@Override" annotation above this method signature(“–ış
+Asquid:S00108+")Either remove or fill this block of code.(”ı¾
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú‹\
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â‹í úÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Óôå‘
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

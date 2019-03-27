@@ -1,0 +1,15 @@
+
+?squid:S2129"!Remove this "Integer" constructor(ïË”ñ8–ë›-
+Dsquid:S2129"!Remove this "Integer" constructor(ÆŞûÙüÿÿÿÿ8–ë›-
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¢ºÈ‡8×è¹€™-
+Psquid:S1481"-Remove this unused "integer4" local variable.(ÆŞûÙüÿÿÿÿ8–ë›-
+Dsquid:S2129"!Remove this "Integer" constructor(Å•Â©øÿÿÿÿ8–ë›-
+Ksquid:S1481"-Remove this unused "integer2" local variable.(ïË”ñ8–ë›-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬ÛŒÂÿÿÿÿÿ8–ë›-
+Psquid:S1481"-Remove this unused "integer3" local variable.(Å•Â©øÿÿÿÿ8–ë›-
+_squid:S1854"<Remove this useless assignment to local variable "integer3".(Å•Â©øÿÿÿÿ8–ë›-
+Zsquid:S1854"<Remove this useless assignment to local variable "integer2".(ïË”ñ8–ë›-
+Zsquid:S1854"<Remove this useless assignment to local variable "integer1".(ˆÀÿÑ8–ë›-
+Ksquid:S1481"-Remove this unused "integer1" local variable.(ˆÀÿÑ8–ë›-
+_squid:S1854"<Remove this useless assignment to local variable "integer4".(ÆŞûÙüÿÿÿÿ8–ë›-

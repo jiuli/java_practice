@@ -1,9 +1,9 @@
 
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(╣М█I
 usquid:S2293
 "YReplace the type specification in this constructor call with the diamond operator ("<>").(О∙бщ∙    
 psquid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ўо■▒
 ?squid:S1148w"#Use a logger to log this exception.(А╔╘Е¤    
 ?squid:S1148h"#Use a logger to log this exception.(А╔╘Е¤    
 @squid:S1148П"#Use a logger to log this exception.(А╔╘Е¤    
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(╣М█I
