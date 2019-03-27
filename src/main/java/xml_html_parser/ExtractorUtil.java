@@ -1,13 +1,12 @@
 package xml_html_parser;
 
+import org.w3c.dom.DocumentFragment;
+import org.xml.sax.InputSource;
+
 import java.io.BufferedReader;
 import java.io.ByteArrayInputStream;
 import java.io.FileReader;
 import java.io.InputStreamReader;
-
-import com.sun.webkit.dom.HTMLDocumentImpl;
-import org.w3c.dom.DocumentFragment;
-import org.xml.sax.InputSource;
 
 /**
  * DOM编程不要其它的依赖包，因为JDK里自带的JDK里含有的上面提到的org.w3c.dom、org.xml.sax 和javax.xml.parsers包就可以满意条件了。
