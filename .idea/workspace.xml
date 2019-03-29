@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/Client.java" line="24" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb3d6881-34fd-4be3-a445-f2c7495a5275" name="Default Changelist" comment="Java程序性能提升">
+    <list default="true" id="cb3d6881-34fd-4be3-a445-f2c7495a5275" name="Default Changelist" comment="删除重复">
       <change afterPath="$PROJECT_DIR$/../DDD_example/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
@@ -26,6 +26,14 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_lettuce_lettuce_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_buffer_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_common_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_resolver_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_transport_4_1_31_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_projectreactor_reactor_core_3_2_5_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
@@ -68,23 +76,31 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_redis_2_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_2_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_1_2_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_keyvalue_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_redis_2_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_oxm_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_5_1_4_RELEASE.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/java_practice_main.iml" afterDir="false" />
@@ -135,6 +151,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/aop_cglb/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/base/MyMongodb.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/base/MyMongodb_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cache/RedisLock.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/construction/ConstructorWithArguments.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/construction/Constructors.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/construction/InitializationBlock.java" afterDir="false" />
@@ -635,6 +652,13 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/pattern/MVC/IBPMObserver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pattern/MVC/IBeatObserver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pattern/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/MP4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/adapter/VLCPlayer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pattern/bridge_pattern/AbstractAction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pattern/bridge_pattern/AbstractDepartment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pattern/bridge_pattern/Client.java" afterDir="false" />
@@ -722,6 +746,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/threadlocal_test/ThreadA.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/threadlocal_test/ThreadB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/threadlocal_test/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/BaseDTO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/utils/Casting.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/utils/DateUtil.java" afterDir="false" />
@@ -738,6 +763,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/utils/listTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/xml_html_parser/ExtractorUtil.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/xml_html_parser/ParserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xadmin/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xadmin/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xadmin/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
@@ -884,21 +910,37 @@
       <change beforePath="$PROJECT_DIR$/../invest-service/src/test/java/com/huagui/invest/service/OrgServiceImplTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../invest-service/src/test/java/com/huagui/invest/service/PersonServiceImplTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../invest-service/src/test/java/com/huagui/invest/service/XMLResolveTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OO_test/BaseDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OO_test/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OO_test/Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OO_test/SimpleBaseDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/construction/patterns/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/construction/patterns/Dependant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/construction/patterns/EagerSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/construction/patterns/HelperClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/construction/patterns/LazySingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/construction/patterns/NaiveSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor_test/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor_test/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor_test/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor_test/Rental.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java_practice_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java_practice_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java_practice_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java_practice_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OO_test/BaseDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OO_test/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OO_test/Run.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/OO_test/SimpleBaseDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/construction/patterns/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/construction/patterns/Dependant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/construction/patterns/EagerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/construction/patterns/HelperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/construction/patterns/LazySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/construction/patterns/NaiveSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructor_test/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructor_test/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/constructor_test/Rental.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/utils/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/utils/listTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/utils/listTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/xml_html_parser/ExtractorUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/xml_html_parser/ExtractorUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/listTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/listTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-metro-project/Dockerfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-metro-project/build.gradle" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-metro-project/sonar-project.properties" beforeDir="false" />
@@ -1665,6 +1707,19 @@
                 <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
                 <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java_practice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java_practice" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -1708,12 +1763,12 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="Groovy" value="9" />
+          <entry key="Groovy" value="10" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="556" />
+          <entry key="JAVA" value="572" />
           <entry key="Manifest" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Properties" value="6" />
+          <entry key="Properties" value="8" />
           <entry key="XML" value="2" />
           <entry key="nginx file type" value="4" />
         </counts>
@@ -1728,10 +1783,10 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Groovy" value="228" />
-          <entry key="JAVA" value="12356" />
-          <entry key="PLAIN_TEXT" value="159" />
-          <entry key="Properties" value="18" />
+          <entry key="Groovy" value="236" />
+          <entry key="JAVA" value="14062" />
+          <entry key="PLAIN_TEXT" value="163" />
+          <entry key="Properties" value="23" />
           <entry key="nginx file type" value="66" />
         </counts>
       </usages-collector>
@@ -1745,64 +1800,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/construction/NoArgConstructor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/construction/NoConstructor.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/AudioPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="418">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/construction/StaticInitializationBlocks.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/StreamTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="353">
+              <caret line="133" column="86" selection-start-line="133" selection-start-column="86" selection-end-line="133" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/construction/StaticInitializationBlock.java">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="66">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/poi_test/PoiTest_1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-139">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="154">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xml_html_parser/ExtractorUtil.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="458">
+              <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/xml_html_parser/ParserUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cache/RedisLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="506">
+              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/gradle-repo/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.1.4.RELEASE/66e199d4ccfafd78034d74cd51a514a82507fc4b/spring-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="214" column="6" selection-start-line="214" selection-start-column="6" selection-end-line="214" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/stream/IntStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/BaseDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -2052,9 +2137,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4652805776981" />
+        <entry key="$PROJECT_DIR$" value="4653419176238" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2962328472" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="190124913" />
         <entry key="$PROJECT_DIR$/gradle.properties" value="1323937844" />
         <entry key="$PROJECT_DIR$/practice/build.gradle" value="1915636275" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="931339268" />
@@ -2288,19 +2373,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH3/javatuning/ch3/collectionvisittuning/TestRandomAccess.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH3/javatuning/ch3/tech/TestStaticMethod.java" />
-        <option value="$PROJECT_DIR$/src/main/java/utils/nginx.conf" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/pattern/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/pattern/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/pattern/FutureData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/pattern/RealData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/jdk/RealData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/jdk/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/mstrwkr/Master.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/mstrwkr/Worker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/mstrwkr/PlusWorker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/mstrwkr/TestMasterWorker.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/gs/simple/Request.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/gs/simple/RequestQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/gs/simple/ServerThread.java" />
@@ -2339,6 +2411,19 @@
         <option value="$PROJECT_DIR$/src/main/java/pattern/strategy/pay_strategy/AccountPay1.java" />
         <option value="$PROJECT_DIR$/src/main/java/pattern/strategy/pay_strategy/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/pattern/strategy/JDK_Thread/TestExecutors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/VLCPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/MP4Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pattern/adapter/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/listTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/BaseDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/cache/RedisLock.java" />
       </list>
     </option>
   </component>
@@ -2352,8 +2437,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1965" />
+    <option name="y" value="47" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -2415,7 +2500,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="xml_html_parser" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2443,6 +2528,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="utils" />
       <recent name="cache" />
       <recent name="DomainModel" />
       <recent name="pattern.prototype_pattern" />
@@ -2471,7 +2557,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (2)">
+  <component name="RunManager" selected="Application.StreamTest">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.strategy.multi_strategy.Client" />
       <module name="java_practice_main" />
@@ -2500,13 +2586,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.strategy.Client" />
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.adapter.Client" />
       <module name="java_practice_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern.strategy.*" />
+          <option name="PATTERN" value="pattern.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -2514,13 +2600,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="effectivejava.CH4.javatuning.ch4.gs.simple.Main" />
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.StreamTest" />
       <module name="java_practice_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="effectivejava.CH4.javatuning.ch4.gs.simple.*" />
+          <option name="PATTERN" value="utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -2530,6 +2616,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.listTest" />
+      <module name="java_practice_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -2553,23 +2653,6 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMasterWorker.testMasterWorker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_practice_main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.CH4.javatuning.ch4.mstrwkr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="effectivejava.CH4.javatuning.ch4.mstrwkr" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.CH4.javatuning.ch4.mstrwkr.TestMasterWorker" />
-      <option name="METHOD_NAME" value="testMasterWorker" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -2585,19 +2668,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestMasterWorker.testMasterWorker" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Client (1)" />
       <item itemvalue="Application.Client (2)" />
+      <item itemvalue="Application.Client (3)" />
+      <item itemvalue="Application.StreamTest" />
+      <item itemvalue="Application.listTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listTest" />
+        <item itemvalue="Application.StreamTest" />
+        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.TestMasterWorker.testMasterWorker" />
       </list>
     </recent_temporary>
   </component>
@@ -2630,7 +2713,7 @@
       <workItem from="1553475676904" duration="8020000" />
       <workItem from="1553562308560" duration="114000" />
       <workItem from="1553562469943" duration="18176000" />
-      <workItem from="1553649200872" duration="11303000" />
+      <workItem from="1553649200872" duration="19706000" />
     </task>
     <task id="LOCAL-00001" summary="EnumMap,EnumSet">
       <created>1552294280360</created>
@@ -2674,7 +2757,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553669905746</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="删除重复">
+      <created>1553670324807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553670324807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2686,7 +2776,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129537000" />
+    <option name="totallyTimeSpent" value="137940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2699,6 +2789,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6903766" visible="true" weight="0.24946696" />
       <window_info id="Structure" order="1" sideWeight="0.30962342" side_tool="true" weight="0.23614073" />
@@ -2706,7 +2797,7 @@
       <window_info id="Favorites" order="3" sideWeight="0.5008347" side_tool="true" weight="0.16577825" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28747204" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30425057" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.57444316" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2723,8 +2814,8 @@
       <window_info anchor="bottom" id="Sequence" order="16" weight="0.32942554" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
-      <window_info anchor="right" id="Gradle" order="3" weight="0.23720682" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.07089552" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -2747,32 +2838,33 @@
     <MESSAGE value="享元模式，工厂初始化存放对象" />
     <MESSAGE value="Java程序性能提升" />
     <MESSAGE value="策略模式：具体策略方法使用上下文做为参数，JDK中Executors创建线程池ThreadPoolExecutor方法使用了策略模式RejectedExecutionHandler" />
-    <option name="LAST_COMMIT_MESSAGE" value="策略模式：具体策略方法使用上下文做为参数，JDK中Executors创建线程池ThreadPoolExecutor方法使用了策略模式RejectedExecutionHandler" />
+    <MESSAGE value="删除重复" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除重复" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/utils/listTest.java</url>
-          <line>70</line>
+          <line>68</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/utils/listTest.java</url>
-          <line>42</line>
+          <line>40</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/utils/listTest.java</url>
-          <line>38</line>
+          <line>36</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/utils/StreamTest.java</url>
-          <line>40</line>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
@@ -2791,122 +2883,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/CH2/javatuning/ch2/singleton/TestSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/CH2/javatuning/ch2/singleton/SingletonFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/CH2/javatuning/ch2/singleton/LazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/CH2/javatuning/ch2/singleton/StaticSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/single_pattern/LoadBalancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/single_pattern/LoadBalancer_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/single_pattern/LoadBalancer_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/single_pattern/LoadBalancer_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/single_pattern/SingleClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/LowerStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/MiddleStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/UpperStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/ITakeStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/multi_strategy/OccupationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/pay_strategy/RMBPay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pattern/strategy/pay_strategy/DollarPay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -3144,10 +3120,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/poi_test/PoiTest_1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/MediaAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="367">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/MP4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/VLCPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/xml_html_parser/ParserUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -3158,10 +3177,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xml_html_parser/ParserUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/poi_test/PoiTest_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="88">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pattern/adapter/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/BaseDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/listTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1393">
+          <caret line="51" column="42" lean-forward="true" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/stream/IntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/StreamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="133" column="86" selection-start-line="133" selection-start-column="86" selection-end-line="133" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/gradle-repo/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.1.4.RELEASE/66e199d4ccfafd78034d74cd51a514a82507fc4b/spring-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/data/redis/core/ValueOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="214" column="6" selection-start-line="214" selection-start-column="6" selection-end-line="214" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cache/RedisLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
