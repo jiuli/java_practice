@@ -15,6 +15,10 @@ public class Student {
     private String code;
     private Integer age;
 
+    public void show() {
+        System.out.println("从文件反射is show()");
+    }
+
     Student(String name) {
         log.info(String.format("构造方法%s", name));
     }
@@ -36,5 +40,9 @@ public class Student {
     //私有构造方法
     private Student(Integer age) {
         log.info("私有的构造方法   年龄：" + age);
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Student main方法执行了。。。");
     }
 }
