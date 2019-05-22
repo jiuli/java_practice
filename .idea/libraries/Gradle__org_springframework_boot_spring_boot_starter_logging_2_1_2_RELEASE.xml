@@ -2,6 +2,7 @@
   <library name="Gradle: org.springframework.boot:spring-boot-starter-logging:2.1.2.RELEASE">
     <CLASSES>
       <root url="jar://D:/gradle-repo/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.1.2.RELEASE/4179271aa0ef84f0329a674f6fc83cebc75caea8/spring-boot-starter-logging-2.1.2.RELEASE.jar!/" />
+      <root url="jar://D:/gradle5-repo/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/2.1.2.RELEASE/4179271aa0ef84f0329a674f6fc83cebc75caea8/spring-boot-starter-logging-2.1.2.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

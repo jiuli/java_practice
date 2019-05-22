@@ -2,10 +2,12 @@
   <library name="Gradle: cglib:cglib-nodep:3.2.10">
     <CLASSES>
       <root url="jar://D:/gradle-repo/caches/modules-2/files-2.1/cglib/cglib-nodep/3.2.10/1960483f42e8dd0830a1aec0a4a823569698ba34/cglib-nodep-3.2.10.jar!/" />
+      <root url="jar://D:/gradle5-repo/caches/modules-2/files-2.1/cglib/cglib-nodep/3.2.10/1960483f42e8dd0830a1aec0a4a823569698ba34/cglib-nodep-3.2.10.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://D:/gradle-repo/caches/modules-2/files-2.1/cglib/cglib-nodep/3.2.10/48de826d312a3f103a8653c443990eddbc94aa/cglib-nodep-3.2.10-sources.jar!/" />
+      <root url="jar://D:/gradle5-repo/caches/modules-2/files-2.1/cglib/cglib-nodep/3.2.10/48de826d312a3f103a8653c443990eddbc94aa/cglib-nodep-3.2.10-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -1,12 +1,0 @@
-
-U"squid:SwitchLastCaseIsDefaultCheck#""Add a default case to this switch.( İÜØıÿÿÿÿ
-Msquid:S1153C"1Directly append the argument of String.valueOf().(ëªÄ¬ùÿÿÿÿ
-Hsquid:S1153>"1Directly append the argument of String.valueOf().(·ì‰Á
-3squid:S1643>"Use a StringBuilder instead.(·ì‰Á
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€©ıãûÿÿÿÿ
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¤áœùÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úñÒı
-psquid:S00116"SRename this field "_rentals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š£Ä±úÿÿÿÿ
-squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Š£Ä±úÿÿÿÿ
-Hsquid:S1153D"1Directly append the argument of String.valueOf().(İ°³‚
-msquid:S00116"PRename this field "_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼˜Äúÿÿÿÿ

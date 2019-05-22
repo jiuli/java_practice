@@ -1,6 +1,7 @@
 package utils;
 
-import org.apache.commons.codec.binary.StringUtils;
+
+import org.apache.commons.lang3.StringUtils;
 
 import java.util.*;
 import java.util.regex.Matcher;
@@ -135,6 +136,11 @@ public class StringTest {
     }
 
     public static void main(String[] args) {
+        Set projectIds = new HashSet();
+        String projectId = " fd s ";
+        if (StringUtils.isNotBlank(projectId)) {
+            Collections.addAll(projectIds, projectId.split(","));
+        }
         StringBuilder strBuilder = new StringBuilder();
         System.out.println(strBuilder);
         String name = "测试008";
@@ -145,25 +151,25 @@ public class StringTest {
 
         long time11 = System.currentTimeMillis();
         for (int i = 0; i < 100; i++) {
-            getParentPath("1.1.1",NORM_SPLIT);
+            getParentPath("1.1.1", NORM_SPLIT);
         }
         long time21 = System.currentTimeMillis();
 
         long time5 = System.currentTimeMillis();
         for (int i = 0; i < 100; i++) {
-            getParentPathOld("1.1.1",NORM_SPLIT);
+            getParentPathOld("1.1.1", NORM_SPLIT);
         }
         long time6 = System.currentTimeMillis();
 
         long time1 = System.currentTimeMillis();
         for (int i = 0; i < 100; i++) {
-            getParentPath("1.1.1",NORM_SPLIT);
+            getParentPath("1.1.1", NORM_SPLIT);
         }
         long time2 = System.currentTimeMillis();
 
         long time3 = System.currentTimeMillis();
         for (int i = 0; i < 100; i++) {
-            getParentPathOld("1.1.1",NORM_SPLIT);
+            getParentPathOld("1.1.1", NORM_SPLIT);
         }
         long time4 = System.currentTimeMillis();
         System.out.println("正则的程序运行了:" + (int) ((time6 - time5) / 1000) + "秒"

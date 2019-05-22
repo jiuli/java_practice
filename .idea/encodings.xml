@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/src/main/java/effectivejava/CH2/javatuning/ch2/buffer/BufferMovingCircle.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/effectivejava/CH2/javatuning/ch2/observor/IObserver.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/effectivejava/CH4/javatuning/ch4/future/jdk/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../pig/pig-auth/src/main/resources/bootstrap.properties" charset="UTF-8" />
   </component>
 </project>
